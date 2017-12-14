@@ -1,0 +1,597 @@
+ID ORGAO	SIGLA	id Serv.	NomeServico	Categoria	NomeServico*: 	NomesPopulares: 	DescricaoServico*: 	Gratuidade	UnidadeAtendim*: 	Tempo: 	Outras Informacoes: 	Solicitante*: 	Categoria*: 	Publico Alvo*: 	Titulo Etapa*: 	Descricao Etapa*: 	Custo Etapa: 	Canais de Prestacao: 	Documentos: 	Comentarios Tempo: 	Comentarios Custo: 	Excecoes de Documentos: 	Campos Obrigatorios 8 totais:	Campos Opcionais 8 totais: 	COMPLETUDE 16 totais:
+596e172e8c36c75d14a5a8a7	ARSAL	599dca518c36c73ba808f11f	Cadastro de Empresa (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	599dda488c36c73ba808f12b	Baixa de Veículo (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e172e8c36c75d14a5a8a7	ARSAL	59a5c2e78c36c7319d27de8c	Inclusão de Veículo (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a5c4568c36c7319d27de8e	Agendamento para realização de vistoria (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+596e172e8c36c75d14a5a8a7	ARSAL	59a5c5c68c36c7319d27de90	Liberação de documento no Detran (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a5c8da8c36c7319d27de92	Cadastro de Motorista Substituto (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+596e172e8c36c75d14a5a8a7	ARSAL	59a5c9d58c36c7319d27de94	Prorrogação de Prazos (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a5cb958c36c7319d27de96	Cancelamentto de Cadastro (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a5cce28c36c7319d27de98	Solicitação de Talonário para Viagens Eventuais e Fretamento (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+596e172e8c36c75d14a5a8a7	ARSAL	59a5ce388c36c7319d27de9a	Isenção de IPVA (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a5cfe38c36c7319d27de9c	Encurtamento ou Prolongamento de Linha (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e172e8c36c75d14a5a8a7	ARSAL	59a5d1288c36c7319d27de9e	Ordem de Serviço (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a5d2cb8c36c7319d27dea0	Declaração (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a5d4468c36c7319d27dea2	Tarifa Promocional (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a6da3d8c36c76c54eb4f87	Reajuste Tarifário (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a6dbc88c36c76c54eb4f89	Cadastro de Pessoa Física para Jurídica (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a6ffd88c36c76c54eb4f94	Cadastro de Viúva (Transporte Complementar/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+596e172e8c36c75d14a5a8a7	ARSAL	59a70cf18c36c76c54eb4f97	Taxa de Fiscalização (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a72f068c36c72eaf6a69d3	Taxa de Outorga (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+596e172e8c36c75d14a5a8a7	ARSAL	59a81e1c8c36c73d5bf0337d	Taxa de Vistoria (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e172e8c36c75d14a5a8a7	ARSAL	59a820958c36c73d5bf0337f	Taxa de Requerimento Especial (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a821d18c36c73d5bf03381	Taxa de Liberação de Documento no Detran (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a823258c36c73d5bf03384	Taxa de Motorista Substituto (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a824a48c36c73d5bf03386	Taxa de Parcelamento (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a825ff8c36c73d5bf03388	Taxa de Apreensão (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	0	1	1	1	1	1	1	7	7	14
+596e172e8c36c75d14a5a8a7	ARSAL	59a8274f8c36c73d5bf0338a	Taxa de Baixa e Inclusão (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a828eb8c36c749831b85fd	Certidão Negativa de Débitos (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a82b9a8c36c74b01f778f7	Taxa Fretamento (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+596e172e8c36c75d14a5a8a7	ARSAL	59a82e328c36c74b01f778f9	Taxa do Talão de Fretamento (Transporte Intermunicipal/Arsal)	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a831228c36c74b01f778fb	Reclamação (Ouvidoria Arsal)	Água e Saneamento	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+596e172e8c36c75d14a5a8a7	ARSAL	59a832f68c36c74b01f778ff	Denúncia (Ouvidoria Arsal)	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a834248c36c74b01f77902	Sugestão (Ouvidoria Arsal)	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a834d88c36c74b01f77906	Elogio (Ouvidoria Arsal)	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a8358e8c36c74b01f77909	Solicitação de Providências (Ouvidoria Arsal)	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e172e8c36c75d14a5a8a7	ARSAL	59a836e48c36c74b01f7790d	Defesa de Multa (Transporte Intermunicipal/Arsal)	Transporte	1	0	1	True	1	1	0	1	1	1	1	0	1	1	1	1	1	1	7	6	13
+57501cd88c36c718eb000009	ADEAL	57cc91668c36c77714000000	Emissão de Guia de Trânsito Animal – GTA	Agropecuária	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+57501cd88c36c718eb000009	ADEAL	59cbe92e8c36c71c557215a2	Declaração de Vacinação de Febre Aftosa	Agropecuária	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+57501cd88c36c718eb000009	ADEAL	59cbea418c36c71c557215a7	Emissão de Ficha Sanitária	Agropecuária	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+577546098c36c702ca000002	Alagoas Previdência	592724088c36c75435a0a9f5	Solicitação de revisão de pensão	Documentos	1	1	0	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	7	7	14
+577546098c36c702ca000002	Alagoas Previdência	59272db28c36c75ac5e07cf1	Solicitação de Certidão de Tempo de Contribuição	Documentos	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+577546098c36c702ca000002	Alagoas Previdência	59282c2d8c36c76c177346bd	Solicitação de Pensão por morte na qualidade de cônjuge	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	592833788c36c76c177346c0	Solicitação  de Pensão por morte na qualidade de companheiro (a) / convivente	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	5928371c8c36c76c177346c2	Solicitação de continuidade de pensão por morte na qualidade de filho (a) maior universitário (a)	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	592839c18c36c76c177346c4	Solicitação de Pensão por morte na qualidade de filho maior NÃO universitário (a)	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	59283c988c36c76c177346c6	Solicitação de Pensão por morte na qualidade de filho(a) menor	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	0	1	1	1	1	8	7	15
+577546098c36c702ca000002	Alagoas Previdência	59283e138c36c76c177346c8	Solicitação de Pensão por morte na qualidade de filho inválido	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	59283f3b8c36c76c177346ca	Solicitação de Pensão por morte na qualidade de tutelado	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	592840b68c36c76c177346cc	Solicitação de Pensão por morte na qualidade de curatelado	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	592852688c36c70a692e21ad	Solicitação de Pensão por morte na qualidade de ex-esposa ou ex-convivente com percepção de alimentos.	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	5928553e8c36c70a692e21af	Solicitação de Imunidade de Contribuição Previdenciária para os pensionitas	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	5928573b8c36c70a692e21b1	Solicitação de Alteração de Dados Cadastrais para pensionista	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	59285b718c36c70a692e21b3	Requerimento de Isenção de Imposto de Renda	Documentos	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+577546098c36c702ca000002	Alagoas Previdência	59285d2e8c36c70a692e21b5	Solicitação de Declaração de Percentual de Rateio	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	59285eaf8c36c718224a0a91	Solicitação de declaração de que é ou não é pensionista de pensão por morte	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	5928660d8c36c7194dee8bbb	Declaração de que é servidor (a) aposentado (a)	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	592868088c36c7194dee8bbd	Revisão dos Proventos de Aposentadoria	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	59286d698c36c7194dee8bbf	Solicitação de inclusão de dependente para fins de Imposto de Renda	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	6	14
+577546098c36c702ca000002	Alagoas Previdência	59286fcb8c36c7194dee8bc1	Declaração de imunidade da contribuição previdenciária	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	592dde4f8c36c75b355a903a	Solicitação de Pagamento de Décimo Terceiro Salário Proporcional de Aposentado Falecido	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	0	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	592de03b8c36c75b355a903c	Solicitação de Recurso Administrativo para aposentados e pensionistas	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+577546098c36c702ca000002	Alagoas Previdência	592de24d8c36c75b355a903e	Solicitação de Alteração de Dados Cadastrais para Servidores Inativos	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+577546098c36c702ca000002	Alagoas Previdência	592df8df8c36c7711aa9b5d5	Solicitação de Imunidade de Contribuição Previdenciária para o Servidor Inativo	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+577546098c36c702ca000002	Alagoas Previdência	592dfbb68c36c7711aa9b5d7	Declaração de que Paga ou Recebe Pensão Alimentícia	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	592ee6a38c36c770731ffd01	Solicitação de Cópia de Processo Administrativo	Documentos	1	1	1	True	1	1	1	1	1	1	1	0	1	1	0	0	0	0	7	5	12
+577546098c36c702ca000002	Alagoas Previdência	592eea7a8c36c770731ffd03	Emissão de contracheque de inativos ou pensionistas	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	592f09e58c36c71e3e2b0b51	Solicitação de ficha financeira de inativos ou pensionistas	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+577546098c36c702ca000002	Alagoas Previdência	592f0c1e8c36c71e3e2b0b55	Declaração para abertura de conta junto à Caixa Econômica Federal	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	592f36858c36c7364165a053	Declaração de Inexistência de dependentes habilitados à Pensão por morte	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	592f37fa8c36c7364165a055	Declaração de existência de dependendes habilitados à Pensão por Morte	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+577546098c36c702ca000002	Alagoas Previdência	592f3a178c36c7364165a057	Informe de Rendimento de  Imposto de Renda	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+57b1ecb08c36c75e61000006	Associação Comercial	57b1f0328c36c75e61000009	Certificação Digital	Documentos	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	57a889ef8c36c70f36000000	Alteração de Titularidade de Consumo (Mudança de Nome na Fatura de Água )	Água e Saneamento	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+56d6d7fb8c36c706ac000003	CASAL	57a892bc8c36c7119f000001	Suspensão do Fornecimento de Água (Corte por solicitação ou a pedido)	Água e Saneamento	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	6	14
+56d6d7fb8c36c706ac000003	CASAL	57a8a4508c36c71eb0000000	Transferência de Titularidade de Débitos Tarifários de Água e de Esgotamento Sanitário (Transferência de Débito)	Água e Saneamento	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	57a8ab538c36c720f3000001	Parcelamento de Débito	Água e Saneamento	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	57a8addd8c36c725c3000000	Ligação Nova de Água	Água e Saneamento	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	57a8b1e88c36c72795000000	Reparo de Vazamento	Água e Saneamento	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	57a8b91d8c36c72c2f000000	Restabelecimento do Fornecimento de Água-1 (Religação Simples)	Água e Saneamento	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+56d6d7fb8c36c706ac000003	CASAL	57a8baeb8c36c72f45000000	Reclamação de Valores	Água e Saneamento	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+56d6d7fb8c36c706ac000003	CASAL	57b300328c36c778ba000003	Reclamação de Falta D'Água Localizada	Água e Saneamento	1	1	0	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	7	5	12
+56d6d7fb8c36c706ac000003	CASAL	57b3014a8c36c778ba000004	Cadastro na Tarifa social	Água e Saneamento	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+56d6d7fb8c36c706ac000003	CASAL	57b306748c36c70955000001	Emissão de 2ª Via de Fatura	Água e Saneamento	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	58d11fd58c36c7300b9848f8	Restabelecimento do Fornecimento de Água-2 (Ramal Predial de Água Suprimido)	Água e Saneamento	1	0	0	True	1	1	1	1	1	1	0	0	1	1	1	0	0	0	5	5	10
+56d6d7fb8c36c706ac000003	CASAL	5935aeb98c36c76411215ea5	Entrega de Fatura em Endereço Alternativo	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+56d6d7fb8c36c706ac000003	CASAL	5935b6248c36c774a8fe1220	Acompanhar Registro de Atendimento	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+56d6d7fb8c36c706ac000003	CASAL	5935bb5b8c36c7776908860f	Consultar Histórico de Consumo	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+56d6d7fb8c36c706ac000003	CASAL	5935be6e8c36c77769088611	Consultar Pagamentos Efetuados	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+56d6d7fb8c36c706ac000003	CASAL	5935c0bf8c36c77769088613	Simulador de Parcelamento	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+56d6d7fb8c36c706ac000003	CASAL	5935c8508c36c703077edde4	Certidão Negativa de Débito	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+56d6d7fb8c36c706ac000003	CASAL	5935cbb88c36c703077edde7	Solicitação de Remanejamento de Cavalete/Hidrômetro (Remanejamento de Hidrômetro)	Água e Saneamento	1	0	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+56d6d7fb8c36c706ac000003	CASAL	5935cdfa8c36c703077eddea	Aferição de Hidrômetro/Teste de Hidrômetro	Água e Saneamento	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	5935d06c8c36c703077eddec	Atualização de Dados Pessoais	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+56d6d7fb8c36c706ac000003	CASAL	594405748c36c71fa9328d7e	Auxílio Creche	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	594407028c36c71fa9328d80	Auxílio Educação	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	59441ce18c36c72fb373d4ff	Auxílio Funeral	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	59441e928c36c72fb373d501	Auxílio Necessidades Especiais	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	59441fa68c36c72fb373d503	Vale Transporte - Acordo Coletivo de Trabalho (ACT)	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	594420e08c36c72fb373d506	Vale Transporte – Lei do Vale Transporte	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	594421e28c36c72fb373d509	Acompanhamento Familiar	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+56d6d7fb8c36c706ac000003	CASAL	594422768c36c734e84d100c	Reembolso Plano de Saúde & Odontológico	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	0	0	0	6	3	9
+56d6d7fb8c36c706ac000003	CASAL	594423f58c36c72fb373d50c	Fornecimento de Equipamentos de Proteção Individual e Coletiva	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	594424988c36c72fb373d50e	Fornecimento de Fardamentos	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	0	0	0	6	3	9
+56d6d7fb8c36c706ac000003	CASAL	59443ff18c36c745f0fb71a2	Exames Periódicos/Admissionais/Demissionais/De Retorno ao Trabalho e de Mudança de Função.	Água e Saneamento	1	0	0	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	7	5	12
+56d6d7fb8c36c706ac000003	CASAL	5944415c8c36c745f0fb71a4	Comunicação de Acidente de Trabalho	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6d7fb8c36c706ac000003	CASAL	59497ecd8c36c77647316544	Licença Maternidade	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+56d6d7fb8c36c706ac000003	CASAL	594980848c36c77f21801f51	Auxílio-Doença Previdenciário	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+56d6d7fb8c36c706ac000003	CASAL	594ada758c36c751e983dd35	Débito Automático	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+56d6d7fb8c36c706ac000003	CASAL	595cedf28c36c73a39601c55	Solicitação de Declaração	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+56d6d7fb8c36c706ac000003	CASAL	595cf0258c36c73bb04b261d	Solicitação de Fichas Financeiras	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	0	1	1	1	0	1	1	1	7	6	13
+56d6d7fb8c36c706ac000003	CASAL	595cf2a78c36c73bb04b261f	Solicitação de Margem Consignável	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+56d6d7fb8c36c706ac000003	CASAL	595cf4128c36c73f1331e28f	Solicitação de Aposentados Por Invalidez	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+56d6d7fb8c36c706ac000003	CASAL	5967adf48c36c736c3a4fd6d	E.mail  Corporativo  e ou Alteração de Senha	Água e Saneamento	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+56d6d7fb8c36c706ac000003	CASAL	59bc37528c36c766d446de23	Consultar quando vai faltar água ma Região  ( SIG Integrado ao Sistema de Medição Monitoramento e Controle de Perdas)	Água e Saneamento	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	1	1	1	6	5	11
+588bae3e8c36c708b4355182	CGE	588fa4888c36c77709ab0296	Serviço de Informação ao Cidadão	Comércio e Serviços	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+588bae3e8c36c708b4355182	CGE	588fa5798c36c77709ab0298	Portal da Transparência Graciliano Ramos	Comércio e Serviços	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+588bae3e8c36c708b4355182	CGE	588fa64e8c36c77709ab029a	Cadastro de Empresas Inidôneas de Alagoas	Comércio e Serviços	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590b70c68c36c71e8623bb3d	CBMAL	594af08e8c36c751e983dd46	Auto de Análise Técnica	Documentos	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+590b70c68c36c71e8623bb3d	CBMAL	594af7bf8c36c76bebabba37	Auto de Vistoria do Corpo de Bombeiros	Documentos	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+590b70c68c36c71e8623bb3d	CBMAL	594afe218c36c76bebabba3a	Auto de de Conformidade de Processo Simplificado	Documentos	1	1	1	True	1	1	1	1	1	1	1	1	1	0	1	1	1	1	8	7	15
+590b70c68c36c71e8623bb3d	CBMAL	594b064a8c36c76bebabba3c	Certidão de Ocorrência	Documentos	1	1	1	False	1	1	1	1	0	0	1	1	1	1	1	1	1	1	6	8	14
+57501ee98c36c718eb00000b	Defensoria	57ac69e28c36c7543c000000	Ação de revisão de alimentos	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+57501ee98c36c718eb00000b	Defensoria	57ac6ccb8c36c7160d000000	Busca e apreensão de menor	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+57501ee98c36c718eb00000b	Defensoria	57ac6f5c8c36c7184a000000	Divórcio direto/conversão de separação em divórcio ou Divórcio litigioso e consensual	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+57501ee98c36c718eb00000b	Defensoria	57ac72518c36c7184a000001	Exoneração de alimentos	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+57501ee98c36c718eb00000b	Defensoria	57ac76398c36c72190000000	Guarda	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+57501ee98c36c718eb00000b	Defensoria	57ac7aa28c36c707db000000	Investigação ou negatória de paternidade	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+57501ee98c36c718eb00000b	Defensoria	57ac7f688c36c705d6000000	Interdição (curatela)	Direitos Humanos	1	1	1	False	1	1	1	1	1	1	1	1	1	0	1	1	1	1	8	7	15
+57501ee98c36c718eb00000b	Defensoria	57ac81fe8c36c7063c000000	Reconhecimento e dissolução de união estável	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+57501ee98c36c718eb00000b	Defensoria	57ac83a48c36c705ce000000	Alvará judicial (para levantar FGTS em caso de rescisão de contrato de trabalho daquele que fornece pensão alimentícia)	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	6	14
+57501ee98c36c718eb00000b	Defensoria	57b1e5098c36c75e61000004	Alvará judicial (para levantamento de valores que estejam em nome de parentes falecidos)	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	0	1	0	0	0	8	5	13
+57501ee98c36c718eb00000b	Defensoria	57b1f2568c36c776e7000000	Retificação (correção) de registro civil	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	6	14
+57501ee98c36c718eb00000b	Defensoria	57b59e348c36c71db7000000	Execução de alimentos	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+57501ee98c36c718eb00000b	Defensoria	57b59f9b8c36c71db7000001	Lavradura de registro de óbito	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+57501ee98c36c718eb00000b	Defensoria	57b5a1178c36c72169000000	Lavradura de registro de nascimento	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+57501ee98c36c718eb00000b	Defensoria	57b5a2608c36c72169000001	Cautelar de separação de corpos(mulher casada) / cautelar inominada (união estável-convivente)	Direitos Humanos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+56d6ddc18c36c706ac000004	DETRAN	56d836298c36c7416c000000	2ª Via de Carteira Nacional de Habilitação	Transporte	1	1	1	True	1	1	0	1	1	1	1	1	0	1	1	1	1	1	8	6	14
+56d6ddc18c36c706ac000004	DETRAN	56e70b918c36c703f9000000	1ª Carteira Nacional de Habilitação	Transporte	1	1	1	True	1	1	0	0	1	1	1	1	1	0	1	0	0	0	7	4	11
+56d6ddc18c36c706ac000004	DETRAN	56e712d38c36c70872000000	Mudança de Endereço	Transporte	1	1	0	False	1	1	0	0	1	1	1	1	1	0	1	0	0	0	6	4	10
+56d6ddc18c36c706ac000004	DETRAN	56e7f4b28c36c76c4c000000	Mudança/Adição de Categoria da CNH	Transporte	1	1	1	True	1	1	0	0	1	1	1	1	1	0	1	0	0	0	7	4	11
+56d6ddc18c36c706ac000004	DETRAN	56e7f7138c36c7706b000000	Permissionado Penalizado	Transporte	1	0	0	True	1	1	0	0	1	1	1	1	1	0	1	0	0	0	6	3	9
+56d6ddc18c36c706ac000004	DETRAN	56e7f96c8c36c7722a000000	Reabilitação do Condutor	Transporte	1	0	1	True	1	1	0	0	1	1	1	1	1	0	1	0	0	0	7	3	10
+56d6ddc18c36c706ac000004	DETRAN	56e7fb058c36c7722a000001	Registro de CNH de Outra UF/Estrangeiro	Transporte	1	1	1	True	1	1	0	0	1	1	1	1	1	0	1	0	0	0	7	4	11
+56d6ddc18c36c706ac000004	DETRAN	56e940438c36c7264d000000	Permissão Internacional para Dirigir	Transporte	1	1	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	3	10
+56d6ddc18c36c706ac000004	DETRAN	56e96dec8c36c767fa000000	Expedição de Dados de CNH	Transporte	1	0	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	56e96e5a8c36c767fa000001	Antecipação de Exames	Transporte	1	0	1	False	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	56e96fb28c36c767fa000002	Cadastramento / Confirmação de PGU de Alagoas ou outra UF	Transporte	1	0	1	False	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	56e9722c8c36c767fa000003	Cancelamento de CNH (Adquirida Irregularmente)	Transporte	1	0	1	False	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	56e985938c36c77753000000	Conserto de CNH	Transporte	1	0	1	False	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	56ea99708c36c724e2000000	Desistência de Categoria	Transporte	1	0	1	False	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	56ea9f2a8c36c715f9000000	Ressarcimento por pagamento em duplicidade ou por não utilização dos serviços	Transporte	1	0	1	False	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	56eaa0dd8c36c715f9000002	CNH devolvida pelos Correios	Transporte	1	0	1	False	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	56eaa6788c36c724f7000000	Recurso ao Conselho Estadual de Trânsito – CETRAN (Junta Médica)	Transporte	1	0	1	False	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	56eaa77d8c36c724f7000001	Alteração de Dados da CNH	Transporte	1	1	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	3	10
+56d6ddc18c36c706ac000004	DETRAN	56ebf1118c36c745b4000000	CNH Definitiva	Transporte	1	1	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	3	10
+56d6ddc18c36c706ac000004	DETRAN	56ebf32b8c36c745b4000001	Encaminhamento para Junta Médica/Psicológica	Transporte	1	0	1	False	1	1	0	0	0	0	1	1	1	0	0	0	0	0	5	2	7
+56d6ddc18c36c706ac000004	DETRAN	56face198c36c73654000000	Renovação de Carteira Nacional de Habilitação	Transporte	1	1	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	3	10
+56d6ddc18c36c706ac000004	DETRAN	5762d1fa8c36c77186000000	1º Emplacamento	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+56d6ddc18c36c706ac000004	DETRAN	5762db308c36c777a6000000	2ª via do Cerificado de Registro e Licenciamento de Veículo	Transporte	1	0	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	5762dc148c36c777a6000001	Alteração de Características / Dados	Transporte	1	0	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	5762debf8c36c704c4000000	Licenciamento Automático	Transporte	1	0	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+56d6ddc18c36c706ac000004	DETRAN	5762dfa08c36c704c4000001	Relacre da Placa	Transporte	1	0	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	5762e06e8c36c704c4000002	Transferência de Propriedade / UF	Transporte	1	0	1	True	1	1	0	0	1	1	0	1	1	0	0	0	0	0	6	2	8
+56d6ddc18c36c706ac000004	DETRAN	5762e26e8c36c704c4000003	Vistoria do Veículo - Lacrada/Agendada	Transporte	1	0	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	2	9
+56d6ddc18c36c706ac000004	DETRAN	5762e2e88c36c704c4000004	Mudança de Endereço - Bairro	Transporte	1	1	1	True	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	3	10
+590b30f58c36c76305bd6328	DITEAL	5936cd918c36c7201ae3afe7	Locações de espaços do Complexo Cultural Teatro Deodoro.	Comércio e Serviços	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+590b30f58c36c76305bd6328	DITEAL	5936d1c18c36c7228037ef5e	Locação do Teatro Deodoro	Comércio e Serviços	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+590b30f58c36c76305bd6328	DITEAL	5936d2dc8c36c7228037ef60	Locação do Teatro de Arena Sérgio Cardoso.	Comércio e Serviços	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+590b30f58c36c76305bd6328	DITEAL	5936d5388c36c7228037ef62	Venda de ingressos on-line.	Comércio e Serviços	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	6	14
+596ce1af8c36c71b0b29f7a4	EMATER	59a6d5e18c36c76c54eb4f83	Assistência Técnica e Extensão Rural	Agropecuária	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596ce1af8c36c71b0b29f7a4	EMATER	59a6d9cc8c36c76c54eb4f85	Garantia Safra	Agropecuária	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+596ce1af8c36c71b0b29f7a4	EMATER	59a6dce38c36c76c54eb4f8a	Programa de Aquisição de Alimentos	Agropecuária	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+596ce1af8c36c71b0b29f7a4	EMATER	59a6e29d8c36c76c54eb4f8d	Crédito Rural	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596ce1af8c36c71b0b29f7a4	EMATER	59a6e7a38c36c76c54eb4f90	Cadastro Ambiental Rural	Agropecuária	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596ce1af8c36c71b0b29f7a4	EMATER	59a6eb778c36c76c54eb4f93	Declaração de Aptidão ao Programa Nacional de Fortalecimento da Agricultura Familiar	Documentos	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+590a1de08c36c7298d7ee868	FAPEAL	5939722f8c36c7335d4d8d6e	Registro de Domínio	Comércio e Serviços	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+590a1de08c36c7298d7ee868	FAPEAL	59397c588c36c739a15b2631	Sala de Videoconferência	Comércio e Serviços	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+590a1de08c36c7298d7ee868	FAPEAL	593ad4ac8c36c70f3b2b4b33	Submissão em Editais	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+596cd96b8c36c726a878bbcb	Gabinete Civil	5989a81b8c36c72d6d5bffee	LEGISLAÇÃO ESTADUAL	Documentos	1	0	1	False	1	1	1	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+596cd96b8c36c726a878bbcb	Gabinete Civil	5989a90b8c36c72d6d5bfff0	Pesquisa ao Acervo do Arquivo Público de Alagoas	Documentos	1	0	1	False	1	1	1	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+596cd96b8c36c726a878bbcb	Gabinete Civil	5989aa7f8c36c72d6d5bfff2	Projeto Chá de Memória	Educação	1	0	0	False	1	1	1	1	1	1	1	1	1	1	0	0	0	0	7	4	11
+596cd96b8c36c726a878bbcb	Gabinete Civil	5989ab798c36c72d6d5bfff4	Visita Guiada	Educação	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	5	13
+596cd96b8c36c726a878bbcb	Gabinete Civil	5989acc88c36c72d6d5bfff6	Laboratório de Preservação, Conservação e Restauro	Documentos	1	0	1	False	1	1	1	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+596cd96b8c36c726a878bbcb	Gabinete Civil	5989adff8c36c72d6d5bfff8	Gerência de Articulação Social	Direitos Humanos	1	0	1	False	1	1	1	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+5908c3188c36c756f6a837b2	ALGÁS	59396dd88c36c7335d4d8d6a	Fornecimento da conta de gás natural	Energia	1	1	1	False	1	1	1	1	1	1	0	0	1	0	0	1	1	1	6	6	12
+5908c3188c36c756f6a837b2	ALGÁS	593974878c36c7335d4d8d6f	Fornecimento da segunda via da conta de gás natural	Energia	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+5908c3188c36c756f6a837b2	ALGÁS	593976548c36c7335d4d8d72	Ligações de novos clientes à rede de gás natural	Energia	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+5908c3188c36c756f6a837b2	ALGÁS	5939783e8c36c7335d4d8d75	Religações de clientes à rede de gás natural	Energia	1	1	1	True	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+5908c3188c36c756f6a837b2	ALGÁS	593979568c36c7335d4d8d79	Atendimento às solicitações dos usuários em situação de emergência.	Energia	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+596e43e18c36c775620b3b6e	CEPAL	59c922608c36c75428f54b61	Diário Oficial do Estado de Alagoas	Documentos	1	1	0	False	1	1	0	0	1	1	1	1	1	0	0	1	1	1	6	5	11
+596e43e18c36c775620b3b6e	CEPAL	59c92b358c36c75428f54b6a	Publicação no Diário Oficial do Estado de Alagoas	Documentos	1	1	1	True	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+596e43e18c36c775620b3b6e	CEPAL	59c96c788c36c75428f54b7d	Serviços Gráficos	Comércio e Serviços	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	5	13
+590880628c36c708368e836e	IPASEAL SAÚDE	592dea058c36c75b355a9043	Consulta de Situação	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+590880628c36c708368e836e	IPASEAL SAÚDE	592defd68c36c76fd9127b91	Guia médico	Saúde	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+590880628c36c708368e836e	IPASEAL SAÚDE	592df21a8c36c7711aa9b5cf	Solicitação de Internamento	Saúde	1	1	1	False	1	1	1	1	1	1	1	1	1	0	0	0	0	0	8	4	12
+590880628c36c708368e836e	IPASEAL SAÚDE	592df3158c36c7711aa9b5d1	Extrato de coparticipação	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+590880628c36c708368e836e	IPASEAL SAÚDE	592df6b38c36c7711aa9b5d3	Ouvidoria	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+590880628c36c708368e836e	IPASEAL SAÚDE	592ec6cd8c36c7699b842d27	Solicitação de Credenciamento	Saúde	1	1	1	False	1	1	0	0	1	1	1	1	1	1	1	1	1	1	7	7	14
+590880628c36c708368e836e	IPASEAL SAÚDE	592ef6dd8c36c7112448f28b	Programas Assistenciais	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+590880628c36c708368e836e	IPASEAL SAÚDE	592efc448c36c770731ffd06	Solicitação de pagamento	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+590880628c36c708368e836e	IPASEAL SAÚDE	592efd948c36c770731ffd08	Consulta de processos (Protocolo)	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590880628c36c708368e836e	IPASEAL SAÚDE	592effc68c36c770731ffd0a	Perícia Odontológica	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+590880628c36c708368e836e	IPASEAL SAÚDE	592f0afa8c36c71e3e2b0b53	Perícia Médica	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+590880628c36c708368e836e	IPASEAL SAÚDE	592f18cd8c36c71f9ce7bf33	Solicitação de Reembolso	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+590880628c36c708368e836e	IPASEAL SAÚDE	59302f8a8c36c7519c6e47ca	Segunda via de pagamento da mensalidade do plano	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+590880628c36c708368e836e	IPASEAL SAÚDE	593030d38c36c7519c6e47cc	Alteração de Dependente	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	3	11
+590880628c36c708368e836e	IPASEAL SAÚDE	593032da8c36c7519c6e47ce	Bloqueio de Dependente	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	3	11
+590880628c36c708368e836e	IPASEAL SAÚDE	59303e8f8c36c75a9871023c	Autorização de consultas / exames	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+590880628c36c708368e836e	IPASEAL SAÚDE	59303f428c36c7519c6e47d1	Autorização de Internamento	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+590880628c36c708368e836e	IPASEAL SAÚDE	593049aa8c36c7519c6e47d3	Novas Adesões	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+590880628c36c708368e836e	IPASEAL SAÚDE	598876708c36c7755f50b43a	Tratamentos odontológicos	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+596e45fb8c36c705d7b97087	IDERAL	599dd79b8c36c73ba808f12a	Cotação de Preços De Produtos Hortifrutigranjeiro	Comércio e Serviços	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	593866718c36c71f328eac91	Digitalização de Acervo Permanente	Documentos	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	593af6178c36c725d9c10fe2	Assessoramento, apoio e suporte aos líderes de projeto dos órgãos e secretarias do governo	Tecnologia da Informação	1	1	1	True	1	1	1	1	1	1	1	1	1	0	0	1	1	1	8	6	14
+590a38a68c36c731c7c20e8b	ITEC	593afd3c8c36c731af104e2c	Proporcionar treinamentos aos líderes de projetos das instituições e õrgãos no uso das ferramentas do ambiente operacional	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	594bf3268c36c705ccd1353d	Fábrica de Sistemas	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	594c324d8c36c71ccd615f97	Suportar aos líderes de projetos em reuniões técnicas e em elaborações de documentação para ambiente de projetos	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	594c39238c36c71ccd615f9b	Fábrica de Sítios	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	594d2b5b8c36c7470556cf74	Servidor virtual tipo 1	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	594d2d718c36c7489a732efa	Servidor virtual tipo 2	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	594d2f728c36c74a20b09c35	Servidor virtual tipo 3	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	594d329c8c36c74bafa128f7	Colocation Servidor Blade	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	595124f78c36c70fe2e74657	Hospedagem Banco MySQL	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	595126c38c36c70fe2e74659	Hospedagem Banco PostgreSQL	Tecnologia da Informação	1	1	1	False	1	1	0	0	1	1	1	1	1	0	0	0	0	0	7	3	10
+590a38a68c36c731c7c20e8b	ITEC	59527b238c36c76e5335fbfb	Hospedagem Banco Oracle	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	59527d818c36c76e5335fbfd	Colocation servidor padrão	Tecnologia da Informação	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+590a38a68c36c731c7c20e8b	ITEC	59527e948c36c76e5335fbff	VPN	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	59528a2b8c36c76e5335fc03	Consultoria Infraestrutura ou Redes	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	59528c848c36c772b210b7cf	Gerenciamento de Projetos	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	59528dc08c36c76e5335fc07	TREINAMENTO INT. GERENCIAMENTO DE PROJETOS E MS-PROJECT BÁSICO	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	5952921e8c36c76e5335fc08	TREINAMENTO ACESSOS AMBIENTE OPERACIONAL EPM-SHAREPOINT/MS-PROJECT	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	5953fb198c36c75aed5efffb	TREINAMENTO MS-PROJECT INTERMEDIÁRIO	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	5953fe2b8c36c75aed5efffd	TREINAMENTO MS-PROJECT AVANÇADO	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	595674bc8c36c763817c4e7b	MENTORING (ASSESSORIA EM GESTÃO PROJETOS AOS GPs) E CONSULTORIA EM GESTÃO DE PROJETOS	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	59567a3e8c36c763817c4e7d	AMBIENTE EPM-MSP/SHAREPOINT	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+590a38a68c36c731c7c20e8b	ITEC	595680738c36c763817c4e7f	Business Intelligence - BI	Tecnologia da Informação	1	1	1	True	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	595688358c36c763817c4e81	E-SIC	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956a12a8c36c77d95585b0a	Portal da Transparência	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956a27b8c36c77d95585b0c	Sistema de Gestão de Frotas	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956a27d8c36c77d95585b0d	Almoxarifado	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956a49b8c36c77d95585b10	Ficha Funcional	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956a5878c36c77d95585b12	Sistema de Contratos e Convênios	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956a77f8c36c77d95585b14	Manutenção Corretiva e Adaptativa	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956a7d58c36c77d95585b15	Sistema de Gestão Estratégica	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956a95c8c36c77d95585b19	Implantação de Sistemas de Terceiros	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956a9e38c36c77d95585b1b	Análise e Diagnóstico de Ambientes Computacionais	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956ab118c36c77d95585b1c	Controle de Acessos de Visitantes	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956abae8c36c77d95585b1f	Manutenção Evolutiva	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956ac2d8c36c77d95585b21	Ambiente de Desenvolvimento Corporativo	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a38a68c36c731c7c20e8b	ITEC	5956add68c36c77d95585b22	Desenvolvimento de Aplicativos Móveis	Tecnologia da Informação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+57617efd8c36c7464f000000	IMA	576282b68c36c74b0e000000	Defesa de infração	Meio ambiente	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+57617efd8c36c7464f000000	IMA	576285348c36c74c9d000000	Defesa prévia de Intimação	Meio ambiente	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+57617efd8c36c7464f000000	IMA	57628c068c36c74e87000000	Solicitação de Licença Ambiental	Licenças	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+57617efd8c36c7464f000000	IMA	5762928f8c36c74e87000001	Denúncia de Infração Ambiental	Meio ambiente	1	1	1	False	1	1	1	1	1	1	1	1	1	1	0	1	1	1	8	7	15
+57617efd8c36c7464f000000	IMA	588b4b4c8c36c73b9d02f73b	Solicitação de análises de águas de mananciais de superfície (com tratamento e sem tratamento) e subterrâneo (com tratamento e sem tratamento).	Água e Saneamento	1	1	1	True	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+57617efd8c36c7464f000000	IMA	588b4c168c36c73b9d02f73c	Solicitação de análises de efluentes (resíduos) industriais (com tratamento e sem tratamento) e de esgotamentos sanitários (com tratamento e sem tratamento).	Água e Saneamento	1	1	1	True	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+57617efd8c36c7464f000000	IMA	589dce598c36c714d943b5f5	Monitoramento de qualidade das águas das praias do Estado de Alagoas (litoral norte-Maceió-litoral sul) para fins de balneabilidade.	Água e Saneamento	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+57617efd8c36c7464f000000	IMA	589dcf448c36c714d943b5f6	Monitoramento de qualidade das águas do Complexo Estuarino Lagunar de Mundaú-Manguaba/CELMM (Lagunas Mundaú e Manguaba)	Água e Saneamento	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+590a117e8c36c705ff74cad0	JUCEAL	59441fb68c36c72fb373d504	Inscrição do Primeiro estabelecimento no estado (sede)  ou Filial dentro ou Fora do Estado	Licenças	1	1	1	True	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+590a117e8c36c705ff74cad0	JUCEAL	595163a18c36c73712f00645	Alteração do Primeiro estabelicimento no estado (sede)  ou  Filial fora ou dentro do estado	Comércio e Serviços	1	1	1	True	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+590a117e8c36c705ff74cad0	JUCEAL	595164f38c36c73712f00648	Baixa do Primeiro estabelicimento no estado (sede)  ou  Filial fora ou dentro do estado	Comércio e Serviços	1	1	1	True	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+56d6de778c36c706ac000006	POAL	56dd60658c36c73000000000	1ª via da Identificação Civil	Documentos	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+56d6de778c36c706ac000006	POAL	56dd637c8c36c73138000000	2ª via da Identificação Civil	Documentos	1	1	0	True	1	1	0	1	1	1	1	1	1	1	1	0	0	0	7	5	12
+57c59b5e8c36c76bff000000	PF	57c98af08c36c77182000001	Emissão de Passaporte	Documentos	1	1	0	True	1	1	0	0	1	1	0	0	1	0	1	0	0	0	4	4	8
+590b28bf8c36c76305bd6326	SEAGRI	594d4d748c36c75f49163336	Distribuição de alevinos	Agropecuária	1	1	1	False	1	1	1	1	1	1	1	1	1	0	1	1	1	1	8	7	15
+590a3bcd8c36c731c7c20e8c	SEADES	5952ad228c36c710e645568c	Serviço Especializado para Pessoas em Situação de Rua	Assistência Social	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+590a3bcd8c36c731c7c20e8c	SEADES	5952b2758c36c710e645568e	Acesso ao Benefício de Prestação Continuada - BPC/LOAS	Assistência Social	1	0	1	False	1	1	1	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+590a3bcd8c36c731c7c20e8c	SEADES	5952b6b88c36c710e6455690	Acesso ao Programa Bolsa Família	Assistência Social	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	6	14
+590a3bcd8c36c731c7c20e8c	SEADES	5952be268c36c710e6455695	Serviço de Proteção e Atendimento Especializado a Famílias e Indivíduos	Assistência Social	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	5	13
+590a3bcd8c36c731c7c20e8c	SEADES	5952c83b8c36c72478500efd	Serviço de Proteção e Atendimento Integral à família	Assistência Social	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	5	13
+590a3bcd8c36c731c7c20e8c	SEADES	5952c91b8c36c72478500eff	Serviço de Proteção Social a Adolescentes em Cumprimento de Medida Socioeducativa de Liberdade Assistida (LA) e de Prestação de Serviços à Comunidade	Assistência Social	1	1	1	False	1	1	0	1	1	1	0	0	1	0	0	0	0	0	6	3	9
+590a3bcd8c36c731c7c20e8c	SEADES	599db5fa8c36c71bf136374b	Restaurante Popular	Assistência Social	1	0	1	True	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+588baf3e8c36c708b4355183	SECTI	588f76fe8c36c73b35efc460	Agendamento de visitas aos polos do parque tecnológico de alagoas	Comércio e Serviços	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+588baf3e8c36c708b4355183	SECTI	588f7cfc8c36c73b35efc463	Cadastramento de eventos na Semana Estadual de Ciência e Tecnologia	Comércio e Serviços	1	1	1	False	1	1	0	1	1	1	1	0	1	0	0	0	0	0	7	3	10
+588bb11a8c36c708b4355184	SECOM	59e89111e573a35ca98786a7	Notícias oficiais das ações do Governo de Alagoas	Comunicação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+596e4b0f8c36c70a18c2cc90	SECULT	59c3cb4a8c36c74fb449e21b	Agendamento de visitação na Biblioteca Pública Estadual Graciliano Ramos	Cultura	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+596e4b0f8c36c70a18c2cc90	SECULT	59c3cbe98c36c74fb449e21d	Agendamento de visitação de grupos ao Museu Palácio Floriano Peixoto	Cultura	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+596e4b0f8c36c70a18c2cc90	SECULT	59c3cd318c36c74fb449e21f	Agendamento de visitação de grupos ao Museu da Imagem e do Som de Alagoas	Cultura	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+596e4b0f8c36c70a18c2cc90	SECULT	59c3d5a08c36c74fb449e221	Matrículas para cursos do Centro de Belas Artes de Alagoas	Educação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	4	12
+596e4b0f8c36c70a18c2cc90	SECULT	5a009294547bb36e64f7f04f	Solicitação para produção de fotos e vídeos no Museu Palácio Floriano Peixoto	Cultura	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+596e4b0f8c36c70a18c2cc90	SECULT	5a0093ee547bb36e64f7f051	Solicitação de espaço para a realização de eventos no Museu Palácio Floriano Peixoto	Cultura	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+5908eaf78c36c7723803da8f	SEDUC	593ecc7f8c36c75e41e55fc5	Programa uma Escola em cada esquina/Brasil Alfabetizado	Educação	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+5908eaf78c36c7723803da8f	SEDUC	593ee9cb8c36c705e3a2e0a7	Dados Educacionais	Educação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+5908eaf78c36c7723803da8f	SEDUC	593eef578c36c77940ef2098	Certificação por meio do ENEM	Educação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+5908eaf78c36c7723803da8f	SEDUC	593ef5978c36c7099eb45568	Inspeção Escolar	Educação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+5908eaf78c36c7723803da8f	SEDUC	594005888c36c7258826f7e2	Equivalência de estudos no exterior	Educação	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+5908eaf78c36c7723803da8f	SEDUC	594008438c36c7258826f7e4	Certificação por meio do ENCCEJA	Educação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+5908eaf78c36c7723803da8f	SEDUC	594009cb8c36c7258826f7e7	Emissão de documentos de escolas desativadas (EXTINTAS)	Educação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+5908eaf78c36c7723803da8f	SEDUC	59400caf8c36c7258826f7ea	Validação de documentos de vida escolar	Educação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+5908eaf78c36c7723803da8f	SEDUC	5940102b8c36c7258826f7ed	Regularização de Instituições de Ensino	Educação	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+5908eaf78c36c7723803da8f	SEDUC	5940140e8c36c7258826f7ef	Averbação de Tempo de Serviço / Contribuição	Previdência Social	1	0	1	False	1	1	1	1	1	1	1	0	1	1	1	1	1	1	7	7	14
+5908eaf78c36c7723803da8f	SEDUC	594017468c36c7258826f7f1	Desaverbação de Tempo de Serviço/Contribuição	Previdência Social	1	0	1	False	1	1	1	1	1	1	1	0	1	1	1	1	1	1	7	7	14
+5908eaf78c36c7723803da8f	SEDUC	59401d138c36c73ca800a182	Averbação de Licença-prêmio por assiduidade	Licenças	1	0	1	False	1	1	1	1	1	1	1	0	1	1	1	1	1	1	7	7	14
+5908eaf78c36c7723803da8f	SEDUC	59401ebb8c36c73ca800a184	Desaverbação da Licença-prêmio	Licenças	1	0	1	False	1	1	1	1	1	1	1	0	1	0	1	1	1	1	7	6	13
+5908eaf78c36c7723803da8f	SEDUC	594020748c36c73ca800a186	Certidão de Tempo de Serviço	Previdência Social	1	0	1	False	1	1	0	1	1	1	1	0	1	1	1	1	1	1	7	6	13
+5908eaf78c36c7723803da8f	SEDUC	5940b6688c36c724efe3869f	Exoneração	Trabalho	1	0	1	False	1	1	0	1	1	1	1	0	1	1	1	1	1	1	7	6	13
+5908eaf78c36c7723803da8f	SEDUC	5940ba558c36c727003b91ff	Progressão Funcional	Carreiras e Remuneração	1	0	0	False	1	1	0	1	1	1	1	0	1	1	1	1	1	1	6	6	12
+5908eaf78c36c7723803da8f	SEDUC	5940bdf68c36c727003b9201	Desistência de Pedido de Processo Administrativo	Documentos	1	0	1	False	1	1	0	1	1	1	1	0	1	1	1	0	0	0	7	4	11
+5908eaf78c36c7723803da8f	SEDUC	5940c2268c36c727003b9204	Certidão de Ato de Nomeação	Documentos	1	0	1	False	1	1	0	1	1	1	1	0	1	1	1	1	1	1	7	6	13
+5908eaf78c36c7723803da8f	SEDUC	5940c7388c36c727003b9206	Declaração de Tempo de Serviço	Trabalho	1	0	1	False	1	1	1	1	1	1	1	0	1	1	1	1	1	1	7	7	14
+5908eaf78c36c7723803da8f	SEDUC	594169548c36c70265fe1d0b	Decreto de Nomeação	Documentos	1	0	1	False	1	1	0	1	1	1	1	0	1	1	1	1	1	1	7	6	13
+5908eaf78c36c7723803da8f	SEDUC	59416b7c8c36c70265fe1d0e	Remoção (Servidor Administrativo)	Trabalho	1	0	1	False	1	1	0	1	1	1	1	0	1	1	1	0	0	0	7	4	11
+5908eaf78c36c7723803da8f	SEDUC	59416edf8c36c70265fe1d10	Processo de Aposentadoria	Previdência Social	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+5908eaf78c36c7723803da8f	SEDUC	594172238c36c70265fe1d12	Abono de Permanência	Previdência Social	1	0	1	False	1	1	0	1	1	1	1	0	1	1	1	1	1	1	7	6	13
+5908eaf78c36c7723803da8f	SEDUC	5945c0bb8c36c730b8b47dba	Exames Supletivos em caráter Especial	Educação	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	6	14
+5908eaf78c36c7723803da8f	SEDUC	5945cd798c36c73b028c3b78	Pesquisa das Unidades Escolares da rede estadual	Educação	1	1	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	6	14
+5750117e8c36c718eb000005	SEFAZ	5786692c8c36c77bdc000002	Emissão de DAR - Documento de Arrecadação	Documentos	1	1	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	6	14
+5750117e8c36c718eb000005	SEFAZ	57866c818c36c77dc1000000	Nota Fiscal Cidadã	Documentos	1	1	1		1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	6	14
+5750117e8c36c718eb000005	SEFAZ	5786724d8c36c77fe6000001	Parcelamento de IPVA	Economia e Finanças	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	6	14
+5750117e8c36c718eb000005	SEFAZ	5788d0a38c36c76a73000000	Protocolo de processos	Documentos	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	8	16
+5750117e8c36c718eb000005	SEFAZ	5788d67b8c36c76d1e000000	Relatórios fiscais	Documentos	1	1	1	True	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	6	14
+5750117e8c36c718eb000005	SEFAZ	57b5d6f48c36c744de000000	Certidão Negativa de Débitos	Documentos	1	1	1	True	1	1	1	1	1	1	1	1	1	1	0	1	1	1	8	7	15
+5750117e8c36c718eb000005	SEFAZ	57b5d8568c36c744de000001	Taxa de Bombeiro	Segurança e Ordem Pública	1	1	1	False	1	1	1	0	1	1	0	0	1	0	0	0	0	0	5	4	9
+5750117e8c36c718eb000005	SEFAZ	588f8fdf8c36c760c661af9a	Importação com Exoneração do ICMS	Economia e Finanças	1	0	0	True	1	1	0	1	1	1	1	1	1	0	1	0	0	0	7	3	10
+5750117e8c36c718eb000005	SEFAZ	588f92f48c36c760c661af9b	Solicitação de  Baixa de Inscrição Estadual	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588f94798c36c76a11df73c3	Importação com Liquidação do ICMS em Espécie	Economia e Finanças	1	0	1	True	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+5750117e8c36c718eb000005	SEFAZ	588f968c8c36c76a11df73c4	Importação com Deferimento do ICMS sem Recolhimento em Espécie	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	3	11
+5750117e8c36c718eb000005	SEFAZ	588f97f08c36c76a11df73c5	Ato Concessivo de Autorização	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588f991d8c36c76a11df73c6	Importação Temporária	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588f99e68c36c76a11df73c7	Importação Drawback	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588f9b148c36c76a11df73c8	Exportação	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	1	1	1	6	4	10
+5750117e8c36c718eb000005	SEFAZ	588f9c4a8c36c76a11df73c9	Implantação de Créditos de Precatórios oriundos de Certificação de Servidores	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588f9d4b8c36c76a11df73ca	Abertura de Conta Gráfica	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	0	1	0	0	1	1	1	7	4	11
+5750117e8c36c718eb000005	SEFAZ	588f9e288c36c77709ab0290	Transferência de Créditos de Contas Gráficas	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588fa4978c36c77709ab0297	Esclarecimentos Sobre Irregularidades do Imposto Estadual	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fa5df8c36c77709ab0299	Localização de pagamentos não identificados	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fa6b38c36c77709ab029b	Direcionamento de parcelas de IPVA pagas em duplicidade	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fa7cd8c36c77709ab029c	Informações gerais sobre parcelamento do ICMS	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588fac5c8c36c77709ab029d	Atendimento ao contribuinte para vistas aos autos dos processos de Autos de Infração notificados	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fadd18c36c77709ab029e	Concessão de cópia de processos	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fae9a8c36c77709ab029f	Dúvidas relacionadas à legislação tributária estadual	Economia e Finanças	1	0	1		1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588fb01a8c36c77709ab02a0	Disponibilização legislação tributária estadual	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588fb1268c36c77709ab02a1	Call Center	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fb3ca8c36c7104ecd05f5	Balcão de Atendimento	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fb5538c36c7167565e3d6	Emissão de dar-documento de arrecadação do simples nacional	Economia e Finanças	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	6	14
+5750117e8c36c718eb000005	SEFAZ	588fb6218c36c7167565e3d7	Impugnação ao Termo de Indeferimento de Opção	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fb7708c36c7239917ff52	Impugnação ao Termo de Exclusão do Simples Nacional	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fb8f48c36c7239917ff53	Impugnação ao Termo de Desenquadramento do MEI	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fb9a68c36c7239917ff54	Impugnação do Registro de Exclusão no Portal do Simples Nacional	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fba6f8c36c7239917ff55	Requerimento de Justificativa de regularização de pendências	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588fbb698c36c7239917ff56	Termo de Confissão de dívida da Receita Tributada Omitida	Economia e Finanças	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fbbe08c36c7239917ff57	Declaração do Resumo do Livro Caixa	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588fbd308c36c72c230688ac	Relatório Mensal de Receitas Brutas do MEI	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588fbe1e8c36c72c230688ad	Registro de Valores a Receber	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588fbe988c36c72c230688ae	Perguntas e respostas	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	588fc0358c36c72c230688af	Atendimento Virtual Transportadora RLA	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+5750117e8c36c718eb000005	SEFAZ	588fc17d8c36c72c230688b0	Nota Fiscal Eletrônica - NF-e - Habilitação	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fc2358c36c72c230688b1	Nota Fiscal Eletrônica - NF-e - Suporte Técnico	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	588fc2d28c36c72c230688b2	Suporte Técnico da Nota Fiscal Avulsa Eletrônica - NFA-e	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	5890c34c8c36c72dca7569ed	Nota Fiscal do Consumidor Eletrônica - NFC-e	Economia e Finanças	1	0	1	True	1	1	1	1	1	1	1	1	1	0	0	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	5890c3a28c36c72dca7569ee	Conhecimento de Transporte Eletrônico - CT-e	Economia e Finanças	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	5890c3f48c36c72dca7569ef	Manifesto de Documentos Fiscais Eletrônicos - MDF-e	Economia e Finanças	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	5890c4988c36c72dca7569f0	Adesão Voluntária ao SPED - ICMS/IPI	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	5890c4d98c36c72dca7569f1	SPED - ICMS/IPI - Suporte Técnico	Economia e Finanças	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	5890c53e8c36c72dca7569f2	DeSTDA - Suporte Técnico	Economia e Finanças	1	0	1		1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+5750117e8c36c718eb000005	SEFAZ	5890c6108c36c72dca7569f3	Inscrição Estadual da Emenda Constitucional Nº 87/2015	Economia e Finanças	1	1	1	True	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	6	14
+5750117e8c36c718eb000005	SEFAZ	5890c6f98c36c72dca7569f4	Solicitação de  Inscrição Estadual quando alterar atividade  de interesse do Estado	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	5890c7ae8c36c72dca7569f5	Reativação de  Inscrição Estadual	Economia e Finanças	1	0	1	True	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+5750117e8c36c718eb000005	SEFAZ	589204608c36c70c1080ae71	Serviço de Informação ao Cidadão	Economia e Finanças	1	0	1	False	1	1	1	1	1	1	1	0	1	1	0	0	0	0	7	4	11
+5908e8138c36c7723803da8e	SEMUDH	593850368c36c70f36240605	Atendimento à mulher em situação de violência em Alagoas	Direitos Humanos	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	3	11
+5908e8138c36c7723803da8e	SEMUDH	593851388c36c70f36240607	Atendimento interpretativo às pessoas com deficiência.	Direitos Humanos	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	3	11
+5908e8138c36c7723803da8e	SEMUDH	5938523f8c36c70f36240609	Doação e aquisição de OPM	Direitos Humanos	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	3	11
+5908e8138c36c7723803da8e	SEMUDH	593852f68c36c70f3624060b	Fiscalização do cumprimento da legislação que assegura as pessoas com deficiência.	Direitos Humanos	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	3	11
+5908e8138c36c7723803da8e	SEMUDH	593853858c36c70f3624060d	Atendimento ao consumidor	Comércio e Serviços	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	3	11
+596e4d008c36c70a18c2cc92	SESAU	59aee7c28c36c76afbdf5a33	Serviço Médico de Emergência	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59aee99d8c36c76afbdf5a35	Serviço de  Emergência em Pediatria	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e4d008c36c70a18c2cc92	SESAU	59aeeb128c36c76afbdf5a37	Serviço de Ortopedia e Traumatologia	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59aeec6f8c36c76afbdf5a39	Serviço de Atendimento ao AVC	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e4d008c36c70a18c2cc92	SESAU	59aeedce8c36c76afbdf5a3b	Serviço de Atendimento Cardiológico	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+596e4d008c36c70a18c2cc92	SESAU	59aeef2b8c36c76afbdf5a3d	Serviço de Atendimento aos Queimados	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e4d008c36c70a18c2cc92	SESAU	59c531fc8c36c70694747eef	Urgência Pediatrica	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59c53c028c36c70694747ef1	Atendimento/Internação em Urgência Cirurgica	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59c53d018c36c70694747ef3	Cirurgia Eletiva	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e4d008c36c70a18c2cc92	SESAU	59c549a68c36c70694747ef7	Atendimento em Obstetrícia Hospitalar	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e4d008c36c70a18c2cc92	SESAU	59c54e628c36c70694747efa	Atendimento Urgência Clínica	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59c551b88c36c7461539f989	Serviço de Urgência odontológica 24 horas	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e4d008c36c70a18c2cc92	SESAU	59c5597b8c36c7461539f98c	SAMU -Serviço de Atendimento Móvel de Urgência/ Sesau	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	5	13
+596e4d008c36c70a18c2cc92	SESAU	59c5c41d8c36c70a7b1c9559	Serviço de Atendimento ao Cidadão	Saúde	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+596e4d008c36c70a18c2cc92	SESAU	59c9116f8c36c75428f54b4c	Certidão de socorro	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59c913398c36c75428f54b4f	Ouvidoria SUS	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	3	11
+596e4d008c36c70a18c2cc92	SESAU	59c914b68c36c75428f54b52	Denúncias	Saúde	1	1	1	False	1	1	1	1	1	1	1	1	1	0	0	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59c916558c36c75428f54b54	Inspeção Sanitária	Saúde	1	1	1	True	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59c917d48c36c75428f54b56	Palestras	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59c918778c36c75428f54b58	Notificação de receituário azul, amarelo ou de talidomida.	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59c91aaa8c36c75428f54b5a	Doação de sangue	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	3	11
+596e4d008c36c70a18c2cc92	SESAU	59c91cc48c36c75428f54b5c	Cadastro de Doador Voluntário de Medula Óssea	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	0	0	0	8	2	10
+596e4d008c36c70a18c2cc92	SESAU	59c91e498c36c75428f54b5f	Projeto Educativo Doe Vida	Saúde	1	1	1	False	1	1	0	1	1	1	0	0	1	0	0	0	0	0	6	3	9
+596e4d008c36c70a18c2cc92	SESAU	59c922fd8c36c75428f54b62	Coleta externa	Saúde	1	0	1	False	1	1	0	0	1	1	1	1	1	0	0	1	1	1	7	4	11
+596e4d008c36c70a18c2cc92	SESAU	59c925118c36c75428f54b65	Ambulatório de Hematologia	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	0	0	0	6	2	8
+596e4d008c36c70a18c2cc92	SESAU	59c9260b8c36c75428f54b67	Plantão de Hematologia	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	0	1	1	1	7	5	12
+596e4d008c36c70a18c2cc92	SESAU	59c927c98c36c75428f54b69	Transfusão Ambulatorial	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	0	0	0	0	7	3	10
+596e4d008c36c70a18c2cc92	SESAU	59c93f4a8c36c75428f54b6d	Tratamento Fora de Domicilio	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59c940548c36c75428f54b6f	Regulação De Exames E Consultas	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	3	11
+596e4d008c36c70a18c2cc92	SESAU	59c941b18c36c75428f54b73	Internamentos de Média e Alta Complexidade	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59c942b48c36c75428f54b75	Captação de vagas fora do estado para procedimentos de alta complexidade em serviços nacionais fora do estado de alagoas	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	3	11
+596e4d008c36c70a18c2cc92	SESAU	59c9438d8c36c75428f54b77	Capacitação para técnicos municipais	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	1	1	1	8	5	13
+596e4d008c36c70a18c2cc92	SESAU	59c944788c36c75428f54b79	Transporte sanitário - SETS	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	3	11
+596e4d008c36c70a18c2cc92	SESAU	59c9b6018c36c743766ed0e0	Angioplastia Coronária ou Intervenção Coronária Percutânea	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	3	11
+596e4d008c36c70a18c2cc92	SESAU	59c9b78c8c36c743766ed0e2	Aquisição, Controle e Dispensação de Medicamentos E Manipulação de Nutrição Parenteral.	Saúde	1	0	1	False	1	1	0	0	1	1	0	0	1	0	0	1	1	1	5	4	9
+596e4d008c36c70a18c2cc92	SESAU	59c9bb0b8c36c743766ed0e4	Arteriografia das Carótidas	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9bcdb8c36c743766ed0e6	Assistência Domiciliar aos Pacientes Internados	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9c45e8c36c743766ed0ec	Atendimento Ambulatorial de Enfermagem – Agendamento Cirúrgico	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9c60d8c36c743766ed0ee	Atendimento Ambulatorial nas Especialidades Médicas	Saúde	1	0	1	False	1	1	1	1	1	1	0	1	1	1	1	1	1	1	7	7	14
+596e4d008c36c70a18c2cc92	SESAU	59c9c8d28c36c743766ed0f0	Atendimento às Demandas Sociais dos Usuários do HGE	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9cbf68c36c743766ed0f2	Atendimento de Fisioterapia aos Pacientes Internados no HGE	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9ce758c36c743766ed0f4	Atendimento Odontológico (Estética)	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9d36e8c36c743766ed0f6	Atendimento Psicológico para os Pacientes	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9d4aa8c36c743766ed0f8	Avaliação de Características Macroscópicas e Microscópicas em Alimentos	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	0	1	1	1	7	5	12
+596e4d008c36c70a18c2cc92	SESAU	59c9d6828c36c743766ed0fa	Baciloscopia para Tuberculose	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9da128c36c743766ed0fc	Broncoscopia	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9dbe08c36c743766ed0fe	Cateterismo Cardíaco	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	0	0	0	7	4	11
+596e4d008c36c70a18c2cc92	SESAU	59c9de3f8c36c743766ed100	Cirurgia Buco Maxilo-Facial	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9dfc98c36c743766ed102	Cirurgia vascular	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59c9e1db8c36c743766ed105	Coleta de Sangue para exames laboratoriais	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	1	1	1	6	4	10
+596e4d008c36c70a18c2cc92	SESAU	59ca68b08c36c734792345b4	Aposentadoria voluntária por tempo de contribuição e idade	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	0	0	0	8	3	11
+596e4d008c36c70a18c2cc92	SESAU	59ca69d38c36c734792345b6	Progressão funcional por Classe	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	5	13
+596e4d008c36c70a18c2cc92	SESAU	59ca6ab58c36c734792345b8	Licença por motivo de afastamento do cônjuge	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ca6c188c36c734792345ba	Horário Especial de Trabalho	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ca71f98c36c734792345bc	Exoneração	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ca72688c36c734792345be	Licença para o Desempenho de Mandato Classista	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ca75f98c36c734792345c0	Licença para Tratar de Interesses Particulares	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ca76688c36c734792345c2	Averbação de Tempo de Serviço	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ca79b28c36c734792345c4	Averbação de Licença Especial	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ca7a618c36c734792345c6	Licença Prêmio por Assiduidade	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59cab5d28c36c76ef030479a	Central de notificação, captação e distribuição de órgãos estadual	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cab9b08c36c76ef030479c	Dermatologia Geral	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	5	13
+596e4d008c36c70a18c2cc92	SESAU	59cabc498c36c76ef030479f	Detecção de Coliformes Totais e Fecais em Água para Consumo Humano	Saúde	1	0	1	False	1	1	1	0	1	1	0	0	1	0	0	1	1	1	5	5	10
+596e4d008c36c70a18c2cc92	SESAU	59cabf4f8c36c76ef03047a1	Detecção de Microrganismos Aeróbios Mesofilos, em Alimentos	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cacf5e8c36c707f413fcfe	Determinação da Turbidez da Água	Saúde	1	0	1	False	1	1	1	0	1	1	1	1	1	1	0	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cad5138c36c70d1f0247ef	ECG – Eletrocardiograma	Saúde	1	0	1	False	1	1	1	1	1	1	0	1	1	0	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cad7ab8c36c70d1f0247f1	ECO BI-Dimensional com Doppler	Saúde	1	0	1	False	1	1	0	0	1	1	1	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cb31308c36c73ed8a176ad	Dosagem de Ácido Úrico.	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cb33088c36c73ed8a176af	Dosagem de Colesterol Hdl (Método Enzimático)	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cb342c8c36c73ed8a176b1	Dosagem de Colesterol LDL.	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cb35e28c36c73ed8a176b3	Dosagem de Colesterol Total	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cb4b328c36c73ed8a176b5	Dosagem de Creatinina.	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cbc2308c36c71c55721583	Exame de Endoscopia Digestiva	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cbc5ff8c36c71c55721586	Exame de Radiologia	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cbd2eb8c36c71c55721589	Exame de Tomografia com Contraste	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cbd42a8c36c71c5572158b	Exame de Tomografia sem Contraste	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cbd6368c36c71c5572158d	Exame de Transito Intestinal	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cbd73e8c36c71c5572158f	Exame de Ultrassom Abdominal, Tórax, Aparelho, Urinário, Pélvico, Transfontanelar	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cbdd118c36c71c55721591	Exame de Urodinâmica	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cbe9668c36c71c557215a5	Exames Bioquímicos	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cbeb098c36c71c557215a8	Exame de Urografia Escretora	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cbf0148c36c71c557215aa	Holter	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cbf1968c36c71c557215ac	Ultrassonografia Abdominal	Saúde	1	0	1	True	1	1	0	0	1	1	0	1	1	1	1	0	0	0	6	4	10
+596e4d008c36c70a18c2cc92	SESAU	59cc200c8c36c71c557215af	Ultrassonografia (abdômen superior e inferior, cervical, renal, próstata, transvaginal, obstétrico e mama).	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc21ac8c36c71c557215b1	Unidade de AVC (Acidente Vascular Cerebral	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc22c18c36c71c557215b3	Vacinação de Crianças, Adolescentes, Adultos E Idosos	Saúde	1	0	1	False	1	1	1	1	1	1	0	1	1	1	1	1	1	1	7	7	14
+596e4d008c36c70a18c2cc92	SESAU	59cc24338c36c71c557215b5	Vacinas de Rotina	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc24e48c36c71c557215b7	Vigilância Epidemiológica Hospitalar	Saúde	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	1	1	1	6	5	11
+596e4d008c36c70a18c2cc92	SESAU	59cc26c68c36c71c557215ba	Ultrassonografia de Tireoide	Saúde	1	0	1	False	1	1	1	1	1	1	0	1	1	1	0	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc494d8c36c773a84e2f7a	Vigilância Epidemiológica	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc4cbc8c36c773a84e2f7d	Vigilância Sanitária Fiscalização quanto à qualidade de medicamentos, alimentos, bens e serviços de interesse à saúde.	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	0	1	1	1	1	7	5	12
+596e4d008c36c70a18c2cc92	SESAU	59cc4f938c36c773a84e2f80	Vigilância Ambiental Prevenção e controle dos fatores de risco ambientais relacionados às doenças ou a outros agravos à saúde.	Saúde	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	1	1	1	6	5	11
+596e4d008c36c70a18c2cc92	SESAU	59cc55e28c36c773a84e2f83	Cintilografia	Saúde	1	0	1	False	1	1	1	1	1	1	0	1	1	0	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc57fc8c36c773a84e2f85	Consulta Médica de Pediatria	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc59db8c36c773a84e2f86	Consulta para o Diagnóstico do Câncer de Colo Uterino	Saúde	1	0	1	False	1	1	1	1	1	1	0	1	1	1	1	1	1	1	7	7	14
+596e4d008c36c70a18c2cc92	SESAU	59cc5d828c36c773a84e2f88	Biopsia de Próstata	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc5f528c36c773a84e2f8a	Consulta em Angiologia	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc62788c36c773a84e2f8c	Consulta em Cardiologia Adulto	Saúde	1	0	1	False	1	1	0	0	1	1	1	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc64108c36c773a84e2f8e	Consulta em Dermatologia	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc65b98c36c773a84e2f90	Consulta em Endocrinologia	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc66dc8c36c773a84e2f92	Consulta em Gastroenterologia Adulto	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc68208c36c773a84e2f94	Consulta em Geriatria	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc69348c36c773a84e2f96	Consulta em Nefrologia Pediátrica	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc6a758c36c773a84e2f98	Consulta em Neurologia Adulto	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc6b5e8c36c773a84e2f9a	Consulta em Oftalmologia	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc6cb58c36c773a84e2f9c	Consulta Em Otorrinolaringologia	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc6d908c36c773a84e2f9e	Consulta em Pneumologia Adulto	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc6f4f8c36c773a84e2fa1	Consulta em Reumatologia	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc78a18c36c773a84e2fa5	Consulta em Cirurgia de Cabeça e Pescoço	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc796e8c36c773a84e2fa7	Consulta em Cirurgia Geral - Oncologia	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc7aa08c36c773a84e2fa9	Consulta em Cirurgia Toracica	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc7b9d8c36c773a84e2fab	Consulta em Cirurgia Plástica	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc7c6d8c36c773a84e2fad	Consulta em Gastroenterologia - Doenças do Fígado	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc7d7e8c36c773a84e2faf	Consulta em Hematologia Geral	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc7ea48c36c773a84e2fb1	Consulta em Neurocirurgia	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc80f28c36c773a84e2fb4	Exame de Laringoscopia	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc82238c36c773a84e2fb6	Exame de Mamografia	Saúde	1	0	1	False	1	1	0	0	1	1	1	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc833a8c36c773a84e2fb8	Exame de ultrassonografia de rins e vias urinárias	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc84058c36c773a84e2fba	Exame de Ultrassonografia Transvaginal	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc84d78c36c773a84e2fbd	Atendimento em Fonoaudiologia	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc86748c36c773a84e2fbf	Medicamentos da Atenção Especializada - Assistência Farmacêutica	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc8d2e8c36c773a84e2fc1	Medicamentos Excepcionais/Alto Custo/Componente Especializado da Assistência Farmacêutica	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc92138c36c773a84e2fc3	Ressonância Magnéticas	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc93218c36c773a84e2fc5	Tomografia Computadorizada	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc96c28c36c773a84e2fc7	Procedimento de Pequenas Cirurgias - Geral	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc97d28c36c773a84e2fc9	Terapia Ocupacional	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc98f98c36c773a84e2fcb	Colonoscopia	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc99e98c36c773a84e2fcd	Consulta em Mastologia	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cc9b378c36c773a84e2fcf	Consulta em Ortopedia - Ambulatório	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc9c578c36c773a84e2fd1	Promoção ao Aleitamento Materno	Saúde	1	0	1	False	1	1	1	0	1	1	0	1	1	1	1	0	0	0	6	5	11
+596e4d008c36c70a18c2cc92	SESAU	59cc9dba8c36c773a84e2fd3	Exame Curva Glicêmica, Sangue	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cc9f7c8c36c773a84e2fd5	Triagem Neonatal (Teste Do Pezinho)	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cca2bf8c36c773a84e2fd7	Banco de Leite	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	0	0	0	6	4	10
+596e4d008c36c70a18c2cc92	SESAU	59cd0f8d8c36c7748f396e6f	Programa de Asma	Saúde	1	0	1		1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59cd10b28c36c7748f396e71	Consulta com Especialistas	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59cd12d68c36c7748f396e73	Programa Sentinela - Laboratório	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	0	0	0	6	2	8
+596e4d008c36c70a18c2cc92	SESAU	59cd1da68c36c7748f396e77	Atendimento médico a recém-nascidos que necessitam de terapia intensiva	Saúde	1	0	1	False	1	1	1	1	1	1	0	1	1	0	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cd20118c36c7748f396e7a	Atendimento aos RN´s portadores de Microcefalia	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	1	1	1	6	4	10
+596e4d008c36c70a18c2cc92	SESAU	59cd39c88c36c71c6efe8377	UTIs pediátricas  Unidade de  terapia intensiva  pediatrica	Saúde	1	0	1	False	1	1	1	1	1	1	0	1	1	0	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cd3f848c36c71c6efe8379	atendimento em unidade intensiva adulto	Documentos	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	1	1	1	6	5	11
+596e4d008c36c70a18c2cc92	SESAU	59cd46768c36c71c6efe837b	Atendimento médico em casos de envenenamento ou intoxicação grave	Saúde	1	0	1	False	1	1	1	0	1	1	0	1	1	0	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cdd2c28c36c701fc88a6e2	exames laboratoriais	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	0	0	0	6	2	8
+596e4d008c36c70a18c2cc92	SESAU	59cdd33e8c36c701fc88a6e4	Seção de Físico-Química do Laboratorio	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	1	1	1	6	4	10
+596e4d008c36c70a18c2cc92	SESAU	59cdd8da8c36c701fc88a6e6	Seção De Rotulagem do Laboratório	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	0	0	0	6	2	8
+596e4d008c36c70a18c2cc92	SESAU	59cddb918c36c701fc88a6e8	Dosagem de TGO- transaminase glutamico-oxalacetica	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cdddb38c36c701fc88a6ea	Serviço de Resíduos e Contaminantes	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	1	1	0	0	0	6	4	10
+596e4d008c36c70a18c2cc92	SESAU	59ce64558c36c73b90d035ac	Internação Pacientes com Transtornos Mentais	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ce651e8c36c73b90d035ae	Realizar necrópsias	Saúde	1	0	1	False	1	1	1	0	1	1	0	0	1	0	0	1	1	1	5	5	10
+596e4d008c36c70a18c2cc92	SESAU	59ce65af8c36c73b90d035b0	Remoção para o IML casos confirmados ou suspeitos por causas externas;	Saúde	1	0	1	False	1	1	0	0	1	1	0	0	1	0	0	1	1	1	5	4	9
+596e4d008c36c70a18c2cc92	SESAU	59ce69118c36c73b90d035b2	Atendimento a Acidentes ocupacionais por material perfuro-cortante (Profissionais de Saúde)	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	1	0	0	0	6	3	9
+596e4d008c36c70a18c2cc92	SESAU	59ce6cc58c36c73b90d035b4	Atendimento e Acompanhamento de Pessoas Expostas ao Risco de Contaminação com Material Biológico	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ce708f8c36c73b90d035b6	atendimento a pacientes vitimas de Acidentes por animais peçonhentos	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	1	1	1	6	4	10
+596e4d008c36c70a18c2cc92	SESAU	59ce75798c36c73b90d035b9	SAE – Serviço de Assistência Especializada Dr. Marcelo Constant	Saúde	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	1	1	1	6	5	11
+596e4d008c36c70a18c2cc92	SESAU	59ce75a88c36c73b90d035bb	Avaliação de desempenho anual dos servidores da saúde – ADASS – servidor	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ce767e8c36c73b90d035bd	Pedido de Reconsideração de Nota da Avaliação de Desempenho dos Servidores da SESAU/Al - Servidor	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ce777f8c36c73b90d035bf	Atendimento a Pacientes, Portadores ou Com Hipótese Diagnóstica de Doenças Infecciosas e Parasitárias	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59ce7a198c36c73b90d035c1	Atendimento à Gestante de alto risco	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ce7a238c36c73b90d035c2	Comissão Geral da Avaliação de Desempenho	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ce7dfd8c36c73b90d035c5	Atendimento a Vítima de Violência Sexual	Saúde	1	0	1	False	1	1	1	1	1	1	0	0	1	1	1	1	1	1	6	7	13
+596e4d008c36c70a18c2cc92	SESAU	59ce7f5c8c36c73b90d035c7	Atendimento médico e internação de pacientes com complicações da tuberculose	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59ce7fed8c36c73b90d035c9	Entrega de Certificado Para Avaliação de Desempenho Da SESAU /Al	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	0	1	1	1	8	5	13
+596e4d008c36c70a18c2cc92	SESAU	59ce809c8c36c73b90d035cb	Notificação de Violências Doméstica, Sexual, Outras Violências e Maus Tratos	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	0	0	0	7	4	11
+596e4d008c36c70a18c2cc92	SESAU	59ce81a98c36c73b90d035cd	Credenciamento de técnicos especializados com e sem vínculo com a administração pública direta e indireta do poder executivo estadual para atividades de instrutória e correlatas na Secretaria de Estado da Saúde (SESAU).	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59ce828a8c36c73b90d035cf	Atendimento médico a recém-nascidos que necessitam de terapia intensiva	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ce83d78c36c73b90d035d1	Acesso de Aluno para Estágio na SESAU	Saúde	1	1	1	False	1	1	0	1	1	1	1	1	1	0	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ce84048c36c73b90d035d3	Atendimento em urgência psiquiátrica para adulto	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ce87188c36c73b90d035d6	Programa de Preparação para Aposentadoria	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59ce883c8c36c73b90d035d7	Análise da qualidade da água para uso e consumo humano	Saúde	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	1	1	1	6	5	11
+596e4d008c36c70a18c2cc92	SESAU	59ce8f118c36c772f17ad7a8	Exames laboratórias   do Hospital Geral do Estado (HGE), dos Hospitais Escolas e demais unidades da Uncisal e do complexo prisional do Estado de Alagoas.	Saúde	1	0	1	False	1	1	1	1	1	1	0	1	1	0	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ce97218c36c772f17ad7ac	Consultas no Ambulatório de Especialidades	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59ce9a998c36c772f17ad7ae	Serviço de Atenção Psicossocial	Saúde	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	1	1	1	6	5	11
+596e4d008c36c70a18c2cc92	SESAU	59ce9dd68c36c772f17ad7b0	Atendimento em Referência em prevenção, orientação e terapia dos distúrbios da comunicação humana que interferem na qualidade de interação social do homem	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	0	1	1	1	1	7	5	12
+596e4d008c36c70a18c2cc92	SESAU	59ce9fef8c36c772f17ad7b2	Referência na assistência às pessoas portadoras de necessidades especiais,	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	0	0	1	1	1	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59cea19c8c36c772f17ad7b4	atendimento  em Referência na área das disfunções neurológicas do adulto e infantil, traumas ortopédicos, cardiovasculares e pulmonares,	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59ceb9a78c36c70cf9ff95d6	Serviço de Notificação de Doenças e Agravos Transmissíveis	Saúde	1	0	1	False	1	1	0	0	1	1	0	0	1	0	1	1	1	1	5	5	10
+596e4d008c36c70a18c2cc92	SESAU	59cec4688c36c70cf9ff95d8	Emissão de 2ª via de carteira de vacinação	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cec5748c36c70cf9ff95da	Fototerapia / Terapia Fotodinâmica	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cec8a18c36c70cf9ff95dc	Hemograma Completo	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	0	0	0	7	4	11
+596e4d008c36c70a18c2cc92	SESAU	59cecaba8c36c70cf9ff95df	Exame Imunofluorescência Indireta Para Chagas	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	0	0	0	8	4	12
+596e4d008c36c70a18c2cc92	SESAU	59cecd108c36c70cf9ff95e1	Internação Hospitalar Aberta em Regime de Hospital-Dia:	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cece768c36c70cf9ff95e3	Internação para Cuidados Intensivos em Pacientes Com Doenças Infectocontagiosas	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cecfac8c36c70cf9ff95e5	Internação para Diagnóstico e Tratamento Clínico De Pacientes com Doenças Infecciosas	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ced2418c36c70cf9ff95e8	Internação Psiquiátrica	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ced3da8c36c72591e1ce02	Laboratório de Exames de Patologia Clinica	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59ced5f38c36c72591e1ce05	Monitoramento do Risco Sanitário	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59ced7f48c36c72591e1ce07	Pesquisa de Hemoglobinopatias	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59ced9b68c36c72591e1ce09	Programa de Controle do Tabagismo	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cedb878c36c72591e1ce0b	Realização de Biópsia de Gânglio Linfático para Pacientes Atendidos na Emergência	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59ceddc58c36c72591e1ce0e	Realização de Limpeza Cirúrgica de Pele ou Mucosas em Pacientes Atendidos na Emergência ou nas Unidades de Internação	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cedf3c8c36c72591e1ce10	Realização de Mielograma para Pacientes Atendidos na Emergência, no Ambulatório ou Nas Unidades de Internação do HDT	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cee0f18c36c72591e1ce12	Realização de Paracentese para Pacientes Atendidos na Emergência, no Ambulatório ou nas Unidades de Internação do HGE, HDT,UDEA.	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cee32d8c36c72591e1ce14	Realização de Punção Articular para Pacientes Atendidos na Emergência, no Ambulatório ou nas Unidades de Internação	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cee4898c36c72591e1ce16	Realização de Punção Pleural para Pacientes Atendidos na Emergência, Ambulatório Ou nas Unidades de Internação do  HGE,UEA e HDT	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cee5788c36c72591e1ce18	Realização de Traqueostomia em Pacientes Atendidos nas Unidades de Internação.	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cee6b38c36c72591e1ce1a	Reconstrução Parcial do Lábio Traumatizado	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cee8448c36c72591e1ce1c	Restauração de Dente Permanente Anterior	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cee99e8c36c72591e1ce1e	Restauração de Dente Permanente Posterior	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ceeba28c36c72591e1ce20	Retirada Do Corpo Estranho Dos Ossos Da Face	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59ceecb68c36c72591e1ce23	Serviço de Acolhimento ao Familiar Acompanhante	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59ceeea28c36c72591e1ce25	Serviço de Atendimento Médico Estatístico- (SAME/Internação)	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cef0988c36c72591e1ce28	Serviços de Comunicação Interna e Externa e Assessoria de Imprensa	Saúde	1	0	1	False	1	1	0	0	1	0	0	1	1	1	0	1	1	1	5	5	10
+596e4d008c36c70a18c2cc92	SESAU	59cef2488c36c72591e1ce2a	Sorologia para Dengue	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cef3778c36c72591e1ce2c	Sorologia para Rubéola IGG	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cef4548c36c72591e1ce2e	Sorologia para Rubéola IgM	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cef52b8c36c72591e1ce30	Sorologia para Sarampo IGG	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cef5dc8c36c72591e1ce32	Sorologia para Sarampo IGM	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cef68d8c36c72591e1ce34	Sorologia para Sífilis- VDRL	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cef73d8c36c72591e1ce36	Sorologia para Toxoplasmose IGG	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cef8178c36c72591e1ce38	Sorologia para Toxoplasmose IgM	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cef9368c36c72591e1ce3b	Sorologia para toxoplasmose IGG	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cefa3c8c36c72591e1ce3d	Teste de Investigação de Paternidade por Análise de DNA	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cefaf38c36c72591e1ce3f	Teste de Sensibilidade para Tuberculose	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cefd788c36c72591e1ce41	Arteriografia Pulmonar	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59cf04ea8c36c748ab3052fc	Supervisão de Cuidados à Pessoa com Deficiência – SUPED	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cf09c98c36c748ab3052fe	Centros de Atenção Psicossocial (CAPS	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59cf0fc68c36c7513c324a54	Serviço De Verificação De Óbitos	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	0	0	0	6	4	10
+596e4d008c36c70a18c2cc92	SESAU	59cf13cf8c36c754c1138b1d	Realização de procedimentos de Urgência e Emergência odontologico	Saúde	1	0	1	False	1	1	1	1	1	1	1	1	1	1	1	1	1	1	8	7	15
+596e4d008c36c70a18c2cc92	SESAU	59cf16688c36c754c1138b1f	Exame para Constatação de Crime Sexual	Saúde	1	0	1	False	1	1	0	0	1	1	0	1	1	1	1	1	1	1	6	6	12
+596e4d008c36c70a18c2cc92	SESAU	59cf2fa18c36c754c1138b21	Atividade Educativa / Orientação em Grupo na Atenção Especializada	Saúde	1	0	1	False	1	1	0	1	1	1	0	0	1	0	0	0	0	0	6	2	8
+596e4d008c36c70a18c2cc92	SESAU	59cffb958c36c74501864ca5	Incisão e Drenagem de Abscesso	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59d012e78c36c75f0b85f033	Exame de Parasitologia	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59d01b5c8c36c764046e892e	Núcleo de Atenção Saúde Servidor	Saúde	1	0	1	False	1	1	0	1	1	1	1	1	1	1	1	1	1	1	8	6	14
+596e4d008c36c70a18c2cc92	SESAU	59d027b18c36c764046e8930	Núcleo de Telessaúde	Saúde	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	1	1	1	6	5	11
+596e4d008c36c70a18c2cc92	SESAU	59d070dd8c36c7164bb48cb5	Atendimento a pessoas com coagulopatias hereditárias (hemofilia)	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59d0753f8c36c717a152a5d2	Atendimento a pessoas com hemoglobinopatias hereditárias (doença falciforme)	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59d07bf48c36c71d65816773	Biópsia do tecidos moles da boca.	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59d07f2f8c36c71d65816775	Cirurgias cardíacas	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59d080bc8c36c71d65816777	Consulta de Enfermagem em Hipertensão e Diabetes - HIPERDIA	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59d08bdf8c36c726f0eb8d3f	Atendimento cirúrgico ambulatorial básico	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59d092f48c36c726f0eb8d41	Atendimento pré- hospitalar de urgência para gestantes, puérperas e recém-nascidos de alto risco	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	0	1	1	1	7	5	12
+596e4d008c36c70a18c2cc92	SESAU	59d097c98c36c72f572808f9	Atendimento e acompanhamento em reabilitação de pessoas com deficiência	Saúde	1	0	1	False	1	1	1	1	1	1	0	0	1	0	0	0	0	0	6	3	9
+596e4d008c36c70a18c2cc92	SESAU	59d09f5c8c36c73109dddf8d	Hospital-Dia	Saúde	1	0	1	False	1	1	0	1	1	1	0	1	1	1	1	1	1	1	7	6	13
+596e4d008c36c70a18c2cc92	SESAU	59d0a6578c36c7354a71651c	Unidade de Pronto Atendimento	Saúde	1	0	1	False	1	1	1	1	1	1	0	
