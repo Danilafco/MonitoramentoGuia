@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-from verificacao_etapa5 import CompletudeServico
+from getUnitsLatLong import CompletudeServico
 
 teste = CompletudeServico()
 teste.getservicos()

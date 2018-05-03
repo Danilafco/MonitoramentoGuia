@@ -9,14 +9,17 @@ class CompletudeServico():
 
         arquivo = open('getLatLongUnitsServices.csv', 'wb')
 
-        url = "http://186.249.51.81/api/v1/units.json"
+        url = "http://servicos.al.gov.br/api/v1/units.json"
         response = urllib.urlopen(url)
         units = json.loads(response.read())
 
         try:
             writer = csv.writer(arquivo, delimiter='\t')
 
-            writer.writerow(('num ordem', 'ID Servico', 'nome Servico', 'ID Units', 'NomeUnidade: ',  'Latitude', 'Longitude',))
+            print 'num ordem','\t', 'ID Servico','\t', 'nome Servico','\t', 'ID Units','\t', 'NomeUnidade: ','\t',  'Latitude','\t', 'Longitude'
+            # writer.writerow(
+            #     ('num ordem', 'ID Servico', 'nome Servico', 'ID Units', 'NomeUnidade: ', 'Latitude', 'Longitude',))
+
 
         except Exception as e:
             pass
@@ -24,7 +27,7 @@ class CompletudeServico():
         for i in units:
             countServices = 0
 
-            url2 = 'http://186.249.51.81/api/v1/units/' + i['id'] + '.json'
+            url2 = 'http://servicos.al.gov.br/api/v1/units/' + i['id'] + '.json'
             response2 = urllib.urlopen(url2)
             unitDentro = json.loads(response2.read())
 
@@ -59,11 +62,14 @@ class CompletudeServico():
 
 
                     countServices += 1
-                    writer.writerow((countServices, oneService['id'], nomeServico.encode("utf8") , unitDentro['id'], nomeUnidade.encode("utf8"), UnitNamelatitude,
-                                          UnitNamelongitude))
+                    # writer.writerow(countServices, oneService['id'], nomeServico , unitDentro['id'], nomeUnidade, UnitNamelatitude,
+                    #                       UnitNamelongitude)
+                    print countServices,'\t', oneService['id'],'\t', nomeServico,'\t', unitDentro['id'],'\t', nomeUnidade,'\t', UnitNamelatitude,'\t', UnitNamelongitude
             else:
-                writer.writerow((0, '', '', unitDentro['id'],
-                                 nomeUnidade.encode("utf8"), UnitNamelatitude, UnitNamelongitude))
+                # writer.writerow((0, '', '', unitDentro['id'], nomeUnidade, UnitNamelatitude, UnitNamelongitude))
+                print 0, '\t', '','\t', '','\t', unitDentro['id'],'\t', nomeUnidade,'\t', UnitNamelatitude,'\t', UnitNamelongitude
+
+
 
 
             #print UnitNamelatitude

@@ -67,9 +67,13 @@ class CompletudeServico():
                 somaDocumentos1 = 0.0
                 somaCanais1 = 0.0
                 somaCusto1 = 0.0
-                somaDescriptionCusto1 = 0.0
                 somaDocumentosExcecoes1 = 0.0
 
+                QTDO_brigatorio = 0.0
+                QTD_opcionais = 0.0
+                Percentual_Obrigatorio = 0.0
+                Percentual_Opcionais = 0.0
+                CompletudeTotal = 0.0
 
 
                 etapas = []
@@ -337,7 +341,7 @@ class CompletudeServico():
                             somaCanais += 0.0
 
                         # 12 - Verificação de Custo
-                        if oneService['free'] != 'true':
+                        if oneService['free'] == True :
                             # 12.1 - Verificação de Custo da Etapa
                             try:
                                 StrCusto = str(i['cost']['value'])
@@ -348,7 +352,7 @@ class CompletudeServico():
                                     etapas.append('Custo')
                                     etapas.append(1.0)
                                     somaCusto += 1.0
-                                    gratuidade = 1.0
+
 
                                 else:
                                     etapas.append('** Et: ')
@@ -356,7 +360,6 @@ class CompletudeServico():
                                     etapas.append('Custo')
                                     etapas.append(0.0)
                                     somaCusto += 0.0
-                                    gratuidade = 0.0
 
                             except:
 
@@ -367,45 +370,51 @@ class CompletudeServico():
                                 etapas.append(1.0)
                                 somaCusto += 1.0
                                 gratuidade = 1.0
+                                continue
 
                             try:
-                                if i['cost']['value'] != '' and i['cost']['description'] != '':
+                                if i['cost']['description'] != "":
                                     etapas.append('** Et: ')
                                     etapas.append(countEtapa)
                                     etapas.append('Description')
                                     etapas.append(1.0)
-                                    somaDescriptionCusto += 1.0
+                                    somaDescriptionCusto = 1.0
                                     gratuidade = 1.0
+
                                 else:
                                     etapas.append('** Et: ')
                                     etapas.append(countEtapa)
                                     etapas.append('Description')
                                     etapas.append(0.0)
-                                    somaDescriptionCusto += 0.0
+                                    somaDescriptionCusto = 0.0
                                     gratuidade = 0.0
-                            except:
 
+                            except:
                                 etapas.append('** Et: ')
                                 etapas.append(countEtapa)
                                 etapas.append('Description')
                                 etapas.append(0.0)
-                                somaDescriptionCusto += 0.0
+                                somaDescriptionCusto = 0.0
                                 gratuidade = 0.0
+                                continue
 
-                        if oneService['free'] != 'False':
+                        if oneService['free'] == False:
                             etapas.append('** Et: ')
                             etapas.append(countEtapa)
                             etapas.append('Custo')
                             etapas.append(1.0)
                             somaCusto += 1.0
                             gratuidade = 1.0
-
-                        else:
+                            somaDescriptionCusto = 1.0
+                            #print 'entrou aqui false 88.0'
+                        '''else:
                             etapas.append('** Et: ')
                             etapas.append(countEtapa)
                             etapas.append('Custo')
                             etapas.append(0.0)
                             somaCusto += 0.0
+                            somaDescriptionCusto = 0.0
+                            #print 'entrou aqui false 99.0'''
 
                     #FIM DA VERIFICAÇÃO DAS ETAPAS
 
@@ -440,10 +449,7 @@ class CompletudeServico():
                         else:
                             somaCusto1 = 0.0
 
-                        if somaDescriptionCusto != 0.0:
-                            somaDescriptionCusto1 = 1.0
-                        else:
-                            somaDescriptionCusto1 = 0.0
+
 
                         countEtapa1 = 1.0
 
@@ -463,108 +469,88 @@ class CompletudeServico():
                     #CompletudeTotal = round (((QTDO_brigatorio + QTD_opcionais)/21.0),2)
 
 
-                    QTDO_brigatorio = NomeServico + DescricaoServico + UnidadesAtendimento + \
-                                      Solicitante + Categoria + PublicoAlvo +  somaTitle1 + \
-                                      somaDescriprion1 + maturidade
 
-                    QTD_opcionais = NomesPopulares + Tempo + ComentariosTempo + OutrasInformacoes + somaDocumentos1 + \
-                                    somaDocumentosExcecoes1 + somaCanais1 + somaCusto1 + somaDescriptionCusto1
-
-
-                    Percentual_Obrigatorio = QTDO_brigatorio/ 9.0
-                    Percentual_Opcionais = QTD_opcionais/ 9.0
-                    CompletudeTotal = (QTDO_brigatorio + QTD_opcionais) / 18.0
-
-                    ServicoName2 = u'%s'%(oneService['name'])
-                    Sigla = u'%s'%(Sigla)
-
-                    ultimaAtualizacao = u'%s'%oneService['latest_updater']
-
-                    oneService['active']
-
-
-                    try:
-
-
-                        writer.writerow((Sigla.encode('utf8'), ServicoId, ServicoName2.encode('utf8'), str(QTDO_brigatorio).replace(".",","),
-                                         str(QTD_opcionais).replace(".",","), str(Percentual_Obrigatorio).replace(".",","), str(Percentual_Opcionais).replace(".",","), str(CompletudeTotal).replace(".",","),
-                                         oneService['active'], ultimaAtualizacao.encode('utf8'),
-                                         oneService['date_modified'], oneService['date'],
-
-                                         str(NomeServico).replace(".",",") , str(DescricaoServico).replace(".",",") , str(UnidadesAtendimento).replace(".",",") ,
-                                         str(Solicitante).replace(".",",") , str(Categoria).replace(".",",") , str(PublicoAlvo).replace(".",",") , str(maturidade).replace(".", ","), str(somaTitle1).replace(".",",") ,
-                                         str(somaDescriprion1).replace(".",","),
-
-                                         str(NomesPopulares).replace(".",",") , str(Tempo).replace(".",",") , str(ComentariosTempo).replace(".",",") , oneService['free'] ,
-                                         str(OutrasInformacoes).replace(".",",") , str(somaDocumentos1).replace(".",",") , str(somaDocumentosExcecoes1).replace(".",",") , str(somaCanais1).replace(".",",") ,
-                                         str(somaCusto1).replace(".",",") , str(somaDescriptionCusto1).replace(".",",")
-
-                                         ))
-
-                        print Sigla.encode('utf8'), '\t' , ServicoId, '\t' , ServicoName2.encode('utf8'), '\t' ,str(QTDO_brigatorio).replace(".", ","), '\t' ,str(QTD_opcionais).replace(".", ","), '\t' ,str(Percentual_Obrigatorio).replace(".", ","), '\t' ,str(Percentual_Opcionais).replace(".", ","), '\t' ,str(CompletudeTotal).replace(".", ","),'\t' ,oneService['active'], '\t' , ultimaAtualizacao.encode('utf8'),'\t' ,oneService['date_modified'], '\t' ,oneService['date'],'\t' ,str(NomeServico).replace(".", ","), '\t' ,str(DescricaoServico).replace(".", ","),'\t' ,str(UnidadesAtendimento).replace(".", ","), '\t' ,str(Solicitante).replace(".", ","), '\t' ,str(Categoria).replace(".", ","),'\t' ,str(PublicoAlvo).replace(".", ","), '\t' ,str(maturidade).replace(".", ","),'\t' ,str(somaTitle1).replace(".", ","),'\t' ,str(somaDescriprion1).replace(".", ","),'\t' ,str(NomesPopulares).replace(".", ","), '\t' ,str(Tempo).replace(".", ","),'\t' ,str(ComentariosTempo).replace(".", ","), '\t' ,oneService['free'],'\t' ,str(OutrasInformacoes).replace(".", ","),'\t' ,str(somaDocumentos1).replace(".", ","),'\t' ,str(somaDocumentosExcecoes1).replace(".", ","),'\t' ,str(somaCanais1).replace(".", ","),'\t' ,str(somaCusto1).replace(".", ","), '\t' ,str(somaDescriptionCusto1).replace(".", ",")
-
-                        QTDO_brigatorio = 0.0
-                        QTD_opcionais = 0.0
-                        Percentual_Obrigatorio = 0.0
-                        Percentual_Opcionais = 0.0
-                        CompletudeTotal = 0.0
-
-                    finally:
-                        pass
                 else:
-                    ServicoName2 = u'%s'%(oneService['name'])
-                    Sigla = u'%s' % (Sigla)
+                    somaTitle1 = 0.0
+                    somaDescriprion1 = 0.0
+                    somaDocumentos1 = 0.0
+                    somaDocumentosExcecoes1  = 0.0
+                    somaCanais1  = 0.0
+                    somaCusto1  = 0.0
+                    somaDescriptionCusto =  0.0
 
-                    try:
+                QTDO_brigatorio = NomeServico + DescricaoServico + UnidadesAtendimento + \
+                                  Solicitante + Categoria + PublicoAlvo + somaTitle1 + \
+                                  somaDescriprion1 + maturidade
 
-                        writer.writerow((Sigla.encode('utf8'), ServicoId, ServicoName2.encode('utf8'),
-                                         str(QTDO_brigatorio).replace(".", ","),
-                                         str(QTD_opcionais).replace(".", ","),
-                                         str(Percentual_Obrigatorio).replace(".", ","),
-                                         str(Percentual_Opcionais).replace(".", ","),
-                                         str(CompletudeTotal).replace(".", ","),
-                                         oneService['active'], ultimaAtualizacao.encode('utf8'),
-                                         oneService['date_modified'], oneService['date'],
+                QTD_opcionais = NomesPopulares + Tempo + ComentariosTempo + OutrasInformacoes + somaDocumentos1 + \
+                                somaDocumentosExcecoes1 + somaCanais1 + somaCusto1 + somaDescriptionCusto
 
-                                         str(NomeServico).replace(".", ","), str(DescricaoServico).replace(".", ","),
-                                         str(UnidadesAtendimento).replace(".", ","),
-                                         str(Solicitante).replace(".", ","), str(Categoria).replace(".", ","),
-                                         str(PublicoAlvo).replace(".", ","), str(maturidade).replace(".", ",") , str(somaTitle1).replace(".", ","),
-                                         str(somaDescriprion1).replace(".", ","),
+                Percentual_Obrigatorio = QTDO_brigatorio / 9.0
+                Percentual_Opcionais = QTD_opcionais / 9.0
+                CompletudeTotal = (QTDO_brigatorio + QTD_opcionais) / 18.0
 
-                                         str(NomesPopulares).replace(".", ","), str(Tempo).replace(".", ","),
-                                         str(ComentariosTempo).replace(".", ","), oneService['free'],
-                                         str(OutrasInformacoes).replace(".", ","),
-                                         str(somaDocumentos1).replace(".", ","),
-                                         str(somaDocumentosExcecoes1).replace(".", ","),
-                                         str(somaCanais1).replace(".", ","),
-                                         str(somaCusto1).replace(".", ","), str(somaDescriptionCusto1).replace(".", ",")))
+                ServicoName2 = u'%s' % (oneService['name'])
+                Sigla = u'%s' % (Sigla)
 
-                        print Sigla.encode('utf8'), '\t', ServicoId, '\t', ServicoName2.encode('utf8'), '\t', str(
-                            QTDO_brigatorio).replace(".", ","), '\t', str(QTD_opcionais).replace(".", ","), '\t', str(
-                            Percentual_Obrigatorio).replace(".", ","), '\t', str(Percentual_Opcionais).replace(".",
-                                                                                                               ","), '\t', str(
-                            CompletudeTotal).replace(".", ","), '\t', oneService[
-                            'active'], '\t', ultimaAtualizacao.encode('utf8'), '\t', oneService['date_modified'], '\t', \
-                        oneService['date'], '\t', str(NomeServico).replace(".", ","), '\t', str(
-                            DescricaoServico).replace(".", ","), '\t', str(UnidadesAtendimento).replace(".",
-                                                                                                        ","), '\t', str(
-                            Solicitante).replace(".", ","), '\t', str(Categoria).replace(".", ","), '\t', str(
-                            PublicoAlvo).replace(".", ","), '\t', str(maturidade).replace(".", ","), '\t', str(
-                            somaTitle1).replace(".", ","), '\t', str(somaDescriprion1).replace(".", ","), '\t', str(
-                            NomesPopulares).replace(".", ","), '\t', str(Tempo).replace(".", ","), '\t', str(
-                            ComentariosTempo).replace(".", ","), '\t', oneService['free'], '\t', str(
-                            OutrasInformacoes).replace(".", ","), '\t', str(somaDocumentos1).replace(".",
-                                                                                                     ","), '\t', str(
-                            somaDocumentosExcecoes1).replace(".", ","), '\t', str(somaCanais1).replace(".",
-                                                                                                       ","), '\t', str(
-                            somaCusto1).replace(".", ","), '\t', str(somaDescriptionCusto1).replace(".", ",")
+                ultimaAtualizacao = u'%s' % oneService['latest_updater']
 
-                        QTDO_brigatorio = 0.0
-                        QTD_opcionais = 0.0
-                        Percentual_Obrigatorio = 0.0
-                        Percentual_Opcionais = 0.0
-                        CompletudeTotal = 0.0
+                oneService['active']
+
+                try:
+
+                    writer.writerow((Sigla.encode('utf8'), ServicoId, ServicoName2.encode('utf8'),
+                                     str(QTDO_brigatorio).replace(".", ","),
+                                     str(QTD_opcionais).replace(".", ","),
+                                     str(Percentual_Obrigatorio).replace(".", ","),
+                                     str(Percentual_Opcionais).replace(".", ","),
+                                     str(CompletudeTotal).replace(".", ","),
+                                     oneService['active'], ultimaAtualizacao.encode('utf8'),
+                                     oneService['date_modified'], oneService['date'],
+
+                                     str(NomeServico).replace(".", ","), str(DescricaoServico).replace(".", ","),
+                                     str(UnidadesAtendimento).replace(".", ","),
+                                     str(Solicitante).replace(".", ","), str(Categoria).replace(".", ","),
+                                     str(PublicoAlvo).replace(".", ","), str(maturidade).replace(".", ","),
+                                     str(somaTitle1).replace(".", ","),
+                                     str(somaDescriprion1).replace(".", ","),
+
+                                     str(NomesPopulares).replace(".", ","), str(Tempo).replace(".", ","),
+                                     str(ComentariosTempo).replace(".", ","), oneService['free'],
+                                     str(OutrasInformacoes).replace(".", ","),
+                                     str(somaDocumentos1).replace(".", ","),
+                                     str(somaDocumentosExcecoes1).replace(".", ","),
+                                     str(somaCanais1).replace(".", ","),
+                                     str(somaCusto1).replace(".", ","), str(somaDescriptionCusto).replace(".", ",")
+
+                                     ))
+
+                    print Sigla.encode('utf8'), '\t', ServicoId, '\t', ServicoName2.encode('utf8'), '\t', str(
+                        QTDO_brigatorio).replace(".", ","), '\t', str(QTD_opcionais).replace(".", ","), '\t', str(
+                        Percentual_Obrigatorio).replace(".", ","), '\t', str(Percentual_Opcionais).replace(".",
+                                                                                                           ","), '\t', str(
+                        CompletudeTotal).replace(".", ","), '\t', oneService[
+                        'active'], '\t', ultimaAtualizacao.encode('utf8'), '\t', oneService['date_modified'], '\t', \
+                    oneService['date'], '\t', str(NomeServico).replace(".", ","), '\t', str(
+                        DescricaoServico).replace(".", ","), '\t', str(UnidadesAtendimento).replace(".",
+                                                                                                    ","), '\t', str(
+                        Solicitante).replace(".", ","), '\t', str(Categoria).replace(".", ","), '\t', str(
+                        PublicoAlvo).replace(".", ","), '\t', str(maturidade).replace(".", ","), '\t', str(
+                        somaTitle1).replace(".", ","), '\t', str(somaDescriprion1).replace(".", ","), '\t', str(
+                        NomesPopulares).replace(".", ","), '\t', str(Tempo).replace(".", ","), '\t', str(
+                        ComentariosTempo).replace(".", ","), '\t', oneService['free'], '\t', str(
+                        OutrasInformacoes).replace(".", ","), '\t', str(somaDocumentos1).replace(".",
+                                                                                                 ","), '\t', str(
+                        somaDocumentosExcecoes1).replace(".", ","), '\t', str(somaCanais1).replace(".",
+                                                                                                   ","), '\t', str(
+                        somaCusto1).replace(".", ","), '\t', str(somaDescriptionCusto).replace(".", ",")
+
+
+
+                finally:
+                    pass
+
+
 
                         #writer.writerow((Sigla.encode('utf8'), ServicoId,  ServicoName2.encode('utf8'), QTDO_brigatorio,  QTD_opcionais,  Percentual_Obrigatorio, Percentual_Opcionais,CompletudeTotal,
                          #                oneService['active'],  ultimaAtualizacao.encode('utf8'), oneService['date_modified'], oneService['date'],
@@ -572,7 +558,6 @@ class CompletudeServico():
                           #               NomeServico, NomesPopulares,  DescricaoServico, UnidadesAtendimento,Tempo,  typeTempo,  ComentariosTempo, OutrasInformacoes,  Solicitante, SolicitanteTipo,  SolicitanteRequisitos, Categoria,  PublicoAlvo,
                            #              0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
                             #             0.0,  0.0,  0.0,  0.0,  0.0,0.0, 0.0, 0.0, []))
-                    finally:
-                        pass
+
 
         print countservices

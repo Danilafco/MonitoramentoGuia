@@ -7,7 +7,7 @@ class CompletudeServico():
     def getservicos(self):
         countServices = 0
         countOrgaos = 0
-        url = "http://186.249.51.81/api/v1/organs.json"
+        url = "http://servicos.al.gov.br/api/v1/organs.json"
         response = urllib.urlopen(url)
         organ = json.loads(response.read())
 

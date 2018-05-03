@@ -184,3 +184,4 @@ class CompletudeServico():
                 somaTypeChannel = 0
                 somaCost = 0
                 etapas = []
+                etapas = []

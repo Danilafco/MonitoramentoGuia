@@ -9,7 +9,7 @@ class CompletudeServico():
         #input()
         arquivo = open('getCategoria.csv', 'wb')
 
-        url = "http://186.249.51.81/api/v1/organs.json"
+        url = "http://servicos.al.gov.br/api/v1/organs.json"
         response = urllib.urlopen(url)
         organ = json.loads(response.read())
 
@@ -26,7 +26,7 @@ class CompletudeServico():
 
         for i in organ:
 
-            url2 = 'http://186.249.51.81/api/v1/organs/' + i['id'] + '.json'
+            url2 = 'http://servicos.al.gov.br/api/v1/organs/' + i['id'] + '.json'
             response2 = urllib.urlopen(url2)
             organDentro = json.loads(response2.read())
             #print u'Orgão: ' + organDentro['name']
