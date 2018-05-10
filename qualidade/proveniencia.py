@@ -17,9 +17,9 @@ class NotaProveniencia():
 
         try:
             writer = csv.writer(arquivo, delimiter='\t')
-            writer.writerow((u'Instituição Publicadora'.encode('utf8'), 'ID', 'Nota Proveniencia',
-                             u'Nota nome Instituição'.encode('utf8'), u'Email Instituição'.encode('utf8') , u'Endereco Instituição'.encode('utf8') ,
-                             u'Telefones Instituição'.encode('utf8')))
+            writer.writerow((u'Instituição Publicadora'.encode('utf8'), 'ID', 'Orgao', 'Nota de Proveniencia',
+                             u'Nota nome da Instituição'.encode('utf8'), u'Email da Instituição'.encode('utf8') , u'Endereço da Instituição'.encode('utf8') ,
+                             u'Telefones da Instituição'.encode('utf8')))
 
         finally:
             pass
@@ -70,13 +70,13 @@ class NotaProveniencia():
             try:
                 # writer.writerow( [organDentro['id']])
                 # writer.writerow( (organDentro['id'], acronimo.encode("utf8") , oneService['id'], nomeServico.encode("utf8"), NomeServico,  NomesPopulares, DescricaoServico, oneService['free'], UnidadesAtendimento, Tempo, OutrasInformacoes, Solicitante, Categoria, PublicoAlvo, TituloEtapa, DescricaoEtapa, Custo, CanaisPrestacao, Documentos, ComentariosTempo, ComentariosCusto, ComentariosCusto, CamposObrigatorios, CamposOpcionais, Completude))
-                writer.writerow((nomeOrgao.encode("utf8"), organDentro['id'], NotaProveniencia,
+                writer.writerow((nomeOrgao.encode("utf8"), organDentro['id'], organDentro[u'acronym'].encode("utf8"), str(NotaProveniencia).replace(".", ","),
 
                                  str(NomeOrgao).replace(".", ",") , str(EmailOficial).replace(".", ",") , str(EnderecoPrincipal).replace(".", ",") ,
                                  str(Telefones).replace(".", ",")
 ))
 
-                '''print nomeOrgao.encode("utf8"), '\t',organDentro['id'], '\t',NomeOrgao,'\t', Cargo, '\t',\
+                '''print nomeOrgao.encode("utf8"), '\t',organDentro['id'], '\t',NomeOrgao,'\t', Orgao,'\t',Cargo, '\t',\
                                  DirigentePrincipal, '\t',SiteOficial, '\t',EmailOficial, '\t',organDentro['county'],'\t', NomesPopulares,'\t',\
                                  EnderecoPrincipal, '\t',Nature, '\t',Telefones, '\t',Horarios, '\t',CamposObrigatorios, '\t',CamposOpcionais,'\t',\
                                  Completude'''

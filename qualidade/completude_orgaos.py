@@ -17,14 +17,14 @@ class CompletudeOrgaos():
 
         try:
             writer = csv.writer(arquivo, delimiter='\t')
-            writer.writerow(('Nome', 'ID', u'Município'.encode('utf8'),
+            writer.writerow(('Nome', 'ID', 'Orgao', u'Município'.encode('utf8'),
 
                              'QTDO obrigatorio Inst.', 'QTD opcionais Inst.', 'Percentual Obrigatorio Inst.', 'Percentual Opcionais Inst.',
                              u'Nota da Instituição'.encode('utf8'),
 
                              u'Nome da Instituição*'.encode('utf8') , 'Natureza*' , 'Dirigente Principal*' , 'Cargo*' , 'Email Oficial*' , 'Site Oficial*', 'Municipio*' , 'Endereco Principal*' ,
-                             'Nomes Populares Inst.' , 'Sigla Inst.' , 'Telefones' , 'Horarios',
-                             u'Campos Obrigatórios (8 totais):'.encode('utf8'), 'Campos Opcionais (4 totais): ', 'COMPLETUDE (12 totais): '))
+                             'Nomes Populares Inst.' , 'Sigla Inst.' , 'Telefones' , 'Horarios'
+                             ))
 
 
         finally:
@@ -148,7 +148,7 @@ class CompletudeOrgaos():
             try:
                 # writer.writerow( [organDentro['id']])
                 # writer.writerow( (organDentro['id'], acronimo.encode("utf8") , oneService['id'], nomeServico.encode("utf8"), NomeServico,  NomesPopulares, DescricaoServico, oneService['free'], UnidadesAtendimento, Tempo, OutrasInformacoes, Solicitante, Categoria, PublicoAlvo, TituloEtapa, DescricaoEtapa, Custo, CanaisPrestacao, Documentos, ComentariosTempo, ComentariosCusto, ComentariosCusto, CamposObrigatorios, CamposOpcionais, Completude))
-                writer.writerow((nomeOrgao.encode("utf8"), organDentro['id'], MunicipioNome.encode("utf8"),
+                writer.writerow((nomeOrgao.encode("utf8"), organDentro['id'], organDentro[u'acronym'].encode("utf8"), MunicipioNome.encode("utf8"),
                                  str(QTDO_brigatorio_orgaos).replace(".", ","),
                                  str(QTD_opcionais_orgaos).replace(".", ","),
                                  str(Percentual_Obrigatorio_orgaos).replace(".", ","),

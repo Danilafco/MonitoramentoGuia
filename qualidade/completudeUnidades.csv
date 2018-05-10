@@ -1,4 +1,4 @@
-ID Unidade	SIGLA Unidade	Nome da Unidade	Município Unit.	QTDO obrigatorio Uni.	QTD opcionais Uni.	Percentual Obrigatorio Uni.	Percentual Opcionais Uni.	Nota da Unidade	Nome Unidade*: 	Municipio Unit.*	Endereço Principal Unit.*: 	Telefones Unit.: 	E-mail Unit.: 	Horarios Unit.: 
+ID Unidade	Orgao	Nome da U. A.	Município Unit.	QTDO obrigatorio Uni.	QTD opcionais Uni.	Percentual Obrigatorio Uni.	Percentual Opcionais Uni.	Nota da U. A.	Nome da U.A.*:	Municipio Unit.*	Endereço Principal da U. A.*:	Telefones da U. A.:	Email da U. A:	Horarios U. A.:
 599dc7bf8c36c73ba808f11c	ARSAL	Arsal Maceió	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 599dc8278c36c73ba808f11d	ARSAL	Arsal Arapiraca	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 5757f0388c36c75fd9000000	ADEAL	ADEAL - Central Já! ULSAV - UNIDADE LOCAL DE SANIDADE ANIMAL E VEGETAL - São Miguel dos Campos	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
@@ -449,6 +449,10 @@ ID Unidade	SIGLA Unidade	Nome da Unidade	Município Unit.	QTDO obrigatorio Uni.	
 5a461d7e547bb32e573d082d	PM AL	1ª COMPANHIA INDEPENDENTE (1ª CIA/IND)	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 5a461fc7547bb32e573d082e	PM AL	2ª COMPANHIA INDEPENDENTE (2ª CIA/IND)	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 5a4620b6547bb32e573d082f	PM AL	4ª COMPANHIA INDEPENDENTE – 4ª CIA/IND	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
+5aeb193d547bb30a6a786f24	PM AL	DEPARTAMENTO DE PESSOAL - DP	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
+5aeb1969547bb30a6a786f25	PM AL	2° BATALHÃO DE POLÍCIA MILITAR (2° BPM)	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
+5aeb1c34547bb30a6a786f2b	PM AL	COMANDO DO POLICIAMENTO DE ÁREA II - CPAI-II	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
+5aecab90547bb30a7ec5a973	PGE	Prédio-sede	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 594d46a88c36c757a5e5e974	SEAGRI	Secretaria de Estado da Agricultura, Pecuária, Pesca e Aquicultura	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 595286e0964b2c0c48568a7e	SEAGRI	CRAS - Maria Helena Lucena da Silva	Maceio	3,0	1,0	1,0	0,333333333333	0,666666666667	1,0	1,0	1,0	1,0	0,0	0,0
 5951845c964b2c0c485689ca	SEADES	CREAS - Água Branca	Maceio	3,0	1,0	1,0	0,333333333333	0,666666666667	1,0	1,0	1,0	1,0	0,0	0,0
@@ -1073,14 +1077,12 @@ ID Unidade	SIGLA Unidade	Nome da Unidade	Município Unit.	QTDO obrigatorio Uni.	
 59ce551a8c36c73b90d0359f	SESAU	Núcleo de Telessaúde	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
 59ce58eb8c36c73b90d035a0	SESAU	Centro De Atenção Psicossocial- CAPS Casa Verde	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
 59ce59ed8c36c73b90d035a1	SESAU	Farmácia De Acolhimento Hórus Especializados	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
-59ce5c428c36c73b90d035a2	SESAU	Hospital Escola Dr. Helvio Auto	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 59ce5d028c36c73b90d035a3	SESAU	Hospital Escola Dr. Portugal Ramalho	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	1,0	0,0
 59ce5d538c36c73b90d035a4	SESAU	Maternidade Escola Santa Mônica	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	1,0	0,0
 59ce5dc48c36c73b90d035a5	SESAU	Centro de Patologia e Medicina Laboratorial	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 59ce5e1b8c36c73b90d035a6	SESAU	Clínica Escola de Fonoaudiologia Prof. Jurandir Boia Rocha	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
 59ce5e5e8c36c73b90d035a7	SESAU	Clínica Escola de Fisioterapia  – Professora Delza Gitaí	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
 59ce5e938c36c73b90d035a8	SESAU	Clínica Escola de Terapia Ocupacional	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
-59ce5f058c36c73b90d035a9	SESAU	Serviço de Verificação de Óbito	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 59ce620a8c36c73b90d035aa	SESAU	Ambulatório de Especialidades-AMBESP	Maceio	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
 5ad224f1547bb319f305ae81	SESAU	Secretaria de Estado da Saúde de Alagoas  (Sesau)  SEDE– Av. da Paz, 978 Jaraguá, Maceió-Alagoas	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 5a677579547bb371159c30ab	SERIS	Chefia de Reintegração Social	Maceio	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
@@ -1154,3 +1156,11 @@ ID Unidade	SIGLA Unidade	Nome da Unidade	Município Unit.	QTDO obrigatorio Uni.	
 5aba525a547bb35166ff9b3a	UNCISAL	Hospital Escola Dr. Helvio Auto	None	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 5aba54aa547bb35166ff9b3c	UNCISAL	Hospital Escola Dr. Helvio Auto	None	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
 5acba0c8547bb32ec8c740ec	UNCISAL	Serviço de Verificação de Óbitos	None	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
+5aec5fd8547bb30a7ec5a957	UNCISAL	SEDE	None	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
+5aec6599547bb30a7ec5a959	UNCISAL	Centro de Atenção Psicossocial Casa Verde	None	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
+5aec6622547bb30a7ec5a95a	UNCISAL	Maternidade Escola Santa Mônica	None	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
+5aec675e547bb30a85c5a952	UNCISAL	Hospital Escola Portugal Ramalho	None	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
+5aec6a03547bb30a7ec5a960	UNCISAL	Centro de Atenção Psicossocial Álcool e Outras Drogas III	None	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
+5aec6b15547bb30a7ec5a961	UNCISAL	Centro Especializado de Reabilitação CER III	None	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0
+5aec6bb8547bb30a7ec5a962	UNCISAL	Centro de Patologia e Medicina Laboratorial	None	3,0	3,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0	1,0
+5aec6cc5547bb30a7ec5a963	UNCISAL	Ambulatório de Especialidades	None	3,0	2,0	1,0	0,666666666667	0,833333333333	1,0	1,0	1,0	1,0	0,0	1,0

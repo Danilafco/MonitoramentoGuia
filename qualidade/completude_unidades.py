@@ -16,12 +16,12 @@ class CompletudeUnidades():
         # print(organ[0])
         try:
             writer = csv.writer(arquivo, delimiter='\t')
-            writer.writerow(('ID Unidade', 'SIGLA Unidade', 'Nome da Unidade', u'Município Unit.'.encode('utf8'),
+            writer.writerow(('ID Unidade', 'Orgao', 'Nome da U. A.', u'Município Unit.'.encode('utf8'),
 
                              'QTDO obrigatorio Uni.', 'QTD opcionais Uni.', 'Percentual Obrigatorio Uni.', 'Percentual Opcionais Uni.',
-                             u'Nota da Unidade'.encode('utf8'),
+                             u'Nota da U. A.'.encode('utf8'),
 
-                             'Nome Unidade*: ', 'Municipio Unit.*', 'Endereço Principal Unit.*: ', 'Telefones Unit.: ', 'E-mail Unit.: ', 'Horarios Unit.: ',
+                             'Nome da U.A.*:', 'Municipio Unit.*', 'Endereço Principal da U. A.*:', 'Telefones da U. A.:', 'Email da U. A:', 'Horarios U. A.:',
 
                              ))
         finally:

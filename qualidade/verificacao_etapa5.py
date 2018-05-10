@@ -84,6 +84,14 @@ class CompletudeServico():
                 typeTempo = 0.0
 
                 try:
+                    if oneService['active'] == True:
+                        Status = 'Ativo'
+                    else:
+                        Status = 'Inativo'
+                except:
+                    Status = 'Inativo'
+
+                try:
                     if oneService['maturity_level'] != "" or  oneService['maturity_level'] != None:
                         maturidade = 1.0
                     else:
@@ -495,7 +503,7 @@ class CompletudeServico():
 
                 ultimaAtualizacao = u'%s' % oneService['latest_updater']
 
-                oneService['active']
+
 
                 try:
 
@@ -505,7 +513,7 @@ class CompletudeServico():
                                      str(Percentual_Obrigatorio).replace(".", ","),
                                      str(Percentual_Opcionais).replace(".", ","),
                                      str(CompletudeTotal).replace(".", ","),
-                                     oneService['active'], ultimaAtualizacao.encode('utf8'),
+                                     Status, ultimaAtualizacao.encode('utf8'),
                                      oneService['date_modified'], oneService['date'],
 
                                      str(NomeServico).replace(".", ","), str(DescricaoServico).replace(".", ","),
@@ -529,8 +537,7 @@ class CompletudeServico():
                         QTDO_brigatorio).replace(".", ","), '\t', str(QTD_opcionais).replace(".", ","), '\t', str(
                         Percentual_Obrigatorio).replace(".", ","), '\t', str(Percentual_Opcionais).replace(".",
                                                                                                            ","), '\t', str(
-                        CompletudeTotal).replace(".", ","), '\t', oneService[
-                        'active'], '\t', ultimaAtualizacao.encode('utf8'), '\t', oneService['date_modified'], '\t', \
+                        CompletudeTotal).replace(".", ","), '\t', Status, '\t', ultimaAtualizacao.encode('utf8'), '\t', oneService['date_modified'], '\t', \
                     oneService['date'], '\t', str(NomeServico).replace(".", ","), '\t', str(
                         DescricaoServico).replace(".", ","), '\t', str(UnidadesAtendimento).replace(".",
                                                                                                     ","), '\t', str(
